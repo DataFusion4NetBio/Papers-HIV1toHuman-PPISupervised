@@ -1,0 +1,955 @@
+env_gp120	7368	interacts with,binds
+env_gp120	10332	binds
+env_gp120	714	interacts with,binds
+env_gp120	1755	interacts with,inhibited by,binds
+env_gp120	4360	interacts with,binds
+env_gp120	1238	binds
+env_gp120	2280	binds
+env_gp120	735	binds
+env_gp120	116444	interacts with,activates,binds
+env_gp120	1237	associates with,binds
+env_gp120	4153	binds
+env_gp120	2903	sensitizes,interacts with,activates,binds
+env_gp120	1667	inhibited by,binds
+env_gp120	920	downregulates,stimulates,binds,induces phosphorylation of,relocalizes,complexes with,cleavage induced by,requires,interacts with,inhibits,downregulated by,inhibited by
+env_gp120	2906	sensitizes,interacts with,activates,binds
+env_gp120	1380	binds
+env_gp120	1134	binds
+env_gp120	5004	inhibited by,binds
+env_gp120	4099	binds
+env_gp120	4057	binds
+env_gp120	5199	binds
+env_gp120	713	interacts with,binds
+env_gp120	718	cleaves,interacts with,binds
+env_gp120	1668	binds,inhibited by
+env_gp120	727	binds
+env_gp120	30835	enhanced by,interacts with,complexes with,mediated by,binds
+env_gp120	6545	binds
+env_gp120	3998	binds
+env_gp120	116443	interacts with,activates,binds
+env_gp120	187	interacts with,binds
+env_gp120	6382	binds
+env_gp120	2907	sensitizes,interacts with,activates,binds
+env_gp120	1231	associates with,binds
+env_gp120	712	interacts with,binds
+env_gp120	2904	sensitizes,interacts with,activates,binds
+env_gp120	1234	downregulates,activates,mediated by,binds,interacts with,complexes with,inhibits,inhibited by
+env_gp120	6441	binds
+env_gp120	4478	relocalizes,binds
+env_gp120	6383	binds
+env_gp120	213	interacts with,binds
+env_gp120	6385	binds
+env_gp120	7057	binds
+env_gp120	1232	binds
+env_gp120	5005	inhibited by,binds
+env_gp120	9902	interacts with,binds
+env_gp120	1233	binds
+env_gp120	1141	binds
+env_gp120	2902	sensitizes,interacts with,activates,binds
+env_gp120	10663	interacts with,binds
+env_gp120	50489	binds
+env_gp120	721	interacts with,binds
+env_gp120	9672	binds
+env_gp120	2335	binds
+env_gp120	7430	induces phosphorylation of,relocalizes,binds
+env_gp120	1669	inhibited by,binds
+env_gp120	7852	downregulates,mediated by,binds,induces phosphorylation of,complexes with,interacts with,relocalizes,inhibits
+env_gp120	2905	sensitizes,interacts with,activates,binds
+env_gp120	1140	binds
+env_gp160	805	binds
+env_gp160	808	binds
+env_gp160	2335	binds
+env_gp160	26998	binds
+env_gp160	3105	interacts with,binds
+env_gp160	811	binds
+env_gp160	920	downregulates,complexes with,interacts with,binds
+env_gp160	821	binds
+env_gp160	801	binds
+env_gp41	3329	binds
+env_gp41	808	inhibited by,binds
+env_gp41	213	binds,inhibited by
+env_gp41	857	binds
+env_gp41	2335	binds
+env_gp41	712	interacts with,binds
+env_gp41	10226	binds
+env_gp41	801	inhibited by,binds
+env_gp41	713	interacts with,binds
+env_gp41	714	interacts with,binds
+env_gp41	10567	binds
+env_gp41	805	inhibited by,binds
+gag_capsid	5478	interacts with,modulates,protects,isomerized by,binds
+gag_capsid	5479	binds
+gag_capsid	117854	binds
+gag_capsid	85363	inhibited by,binds
+gag_capsid	6737	binds
+gag_matrix	9669	inhibits,binds
+gag_matrix	808	binds
+gag_matrix	3458	induces,binds
+gag_matrix	801	binds
+gag_matrix	8815	binds
+gag_matrix	23438	binds
+gag_matrix	8726	co-localizes with,binds
+gag_matrix	1915	inhibits,binds
+gag_matrix	10318	incorporates,binds
+gag_matrix	805	binds
+gag_matrix	5478	binds
+gag_nucleocapsid	71	binds
+gag_p6	10015	incorporates,binds
+gag_p6	7251	binds
+gag_pr55	161	binds
+gag_pr55	350	binds
+gag_pr55	163	binds
+gag_pr55	1175	binds
+gag_pr55	5478	incorporates,modulated by,binds
+gag_pr55	1173	binds
+gag_pr55	24137	transported by,binds
+gag_pr55	8815	binds
+nef	3133	downregulates,binds
+nef	162	stabilizes,interacts with,binds
+nef	51606	binds
+nef	6714	binds
+nef	8906	stabilizes,interacts with,binds
+nef	3932	inactivates,requires,interacts with,upregulates,binds
+nef	10318	binds
+nef	10005	binds
+nef	4217	inhibits,binds
+nef	5478	binds
+nef	164	stabilizes,binds
+nef	8907	stabilizes,interacts with,binds
+nef	5692	downregulates,binds
+nef	375	binds
+nef	163	co-localizes with,binds
+nef	2625	binds
+nef	8726	relocalizes,binds
+nef	5295	binds
+nef	10399	binds
+nef	1315	co-localizes with,binds
+nef	5894	binds
+nef	942	downregulates,binds
+nef	2623	binds
+nef	8905	stabilizes,interacts with,binds
+nef	941	downregulates,binds
+nef	2534	binds
+nef	55690	binds
+nef	3107	downregulates,binds
+nef	5594	regulated by,induces,upregulates,activates,inhibits,binds
+nef	3055	requires,interacts with,activates,inhibits,binds
+nef	3135	downregulates,binds
+nef	7409	binds
+nef	8943	co-localizes with,binds
+nef	7157	interacts with,binds
+nef	3134	downregulates,binds
+nef	3105	co-localizes with,downregulates,disrupts,modulates,inhibits,binds
+nef	3106	co-localizes with,downregulates,modulates,binds
+nef	801	interacts with,binds
+nef	2775	binds
+nef	1174	stabilizes,interacts with,binds
+nef	920	degrades,downregulates,interacts with,modulates,binds
+nef	5062	associates with,co-localizes with,interacts with,activates,binds
+pol_integrase	3836	imported by,binds
+pol_integrase	3840	imported by,binds
+pol_integrase	3839	imported by,binds
+pol_integrase	11168	stimulated by,co-localizes with,regulated by,imported by,interacts with,binds
+pol_integrase	5105	binds
+pol_integrase	10575	binds
+pol_integrase	10309	incorporates,binds
+pol_integrase	1915	binds
+pol_integrase	3841	imported by,binds
+pol_integrase	3838	imported by,binds
+pol_integrase	3837	imported by,binds
+pol_integrase	3842	imported by,binds
+pol_integrase	8487	binds
+pol_integrase	7374	incorporates,binds
+pol_integrase	6598	stimulated by,recruits,interacts with,inhibited by,binds
+pol_integrase	3843	imported by,binds
+pol_integrase	23633	imported by,binds
+pol_reversetranscriptase	60	co-localizes with,binds
+rev	3268	binds
+rev	3267	requires,binds
+rev	11103	binds
+rev	5757	binds
+rev	4000	binds
+rev	7514	recruits,co-localizes with,exported by,interacts with,enhanced by,sequesters,modulated by,binds
+rev	3843	inhibited by,binds
+rev	1984	interacts with,binds
+rev	3835	binds
+rev	4869	associates with,stimulated by,interacts with,binds
+rev	1460	phosphorylated by,activates,modulated by,binds
+rev	3837	inhibited by,binds
+rev	3842	inhibited by,binds
+rev	1459	phosphorylated by,activates,modulated by,binds
+rev	10657	synergizes with,requires,modulated by,inhibited by,binds
+rev	708	inhibits,binds
+rev	1457	phosphorylated by,activates,modulated by,binds
+rev	5901	enhanced by,binds
+tat	4001	binds
+tat	5695	enhances,interacts with,inhibits,binds
+tat	4904	enhanced by,binds
+tat	8349	binds
+tat	5689	enhances,interacts with,inhibits,binds
+tat	8337	binds
+tat	8355	binds
+tat	10524	degrades,enhanced by,inhibits,inhibited by,binds
+tat	8148	recruits,stabilizes,interacts with,binds
+tat	84790	disrupts,enhances polymerization of,binds
+tat	8369	binds
+tat	8360	binds
+tat	1022	synergizes with,requires,interacts with,stimulates,binds
+tat	85236	binds
+tat	8850	recruits,synergizes with,regulated by,interacts with,complexes with,inhibits,binds,acetylated by
+tat	3685	interacts with,binds
+tat	8343	binds
+tat	6884	recruits,stabilizes,interacts with,binds
+tat	3837	imported by,binds
+tat	7161	binds
+tat	5683	enhances,interacts with,inhibits,binds
+tat	3015	binds
+tat	8370	binds
+tat	3725	enhances,downregulates,activates,binds
+tat	10381	enhances polymerization of,binds
+tat	3693	interacts with,binds
+tat	4000	binds
+tat	126961	binds
+tat	8338	binds
+tat	4790	recruits,regulated by,interacts with,acetylates,activates,binds
+tat	6874	recruits,stabilizes,interacts with,binds
+tat	5696	enhances,interacts with,upregulates,inhibits,binds
+tat	2033	regulates,regulated by,modulates,activates,binds,recruits,induces,complexes with,interacts with,acetylated by
+tat	8368	binds
+tat	8356	binds
+tat	84617	binds
+tat	5690	enhances,interacts with,inhibits,binds
+tat	902	synergizes with,requires,interacts with,stimulates,binds
+tat	5501	stimulated by,regulated by,binds
+tat	8361	binds
+tat	6883	recruits,stabilizes,interacts with,binds
+tat	2966	synergizes with,requires,interacts with,stimulates,binds
+tat	51341	stimulated by,binds
+tat	6383	binds
+tat	6908	recruits,synergizes with,stabilizes,requires,interacts with,binds
+tat	8969	binds
+tat	3014	binds
+tat	8363	binds
+tat	5685	enhances,interacts with,inhibits,binds
+tat	221613	binds
+tat	9672	binds
+tat	8344	binds
+tat	5699	enhances,interacts with,upregulates,inhibits,binds
+tat	5693	enhances,interacts with,inhibits,binds
+tat	347688	binds
+tat	8357	binds
+tat	5688	enhances,interacts with,inhibits,binds
+tat	5451	inhibited by,binds
+tat	55506	binds
+tat	8366	binds
+tat	8732	stimulates,binds
+tat	1387	regulates,regulated by,activates,binds,recruits,induces,inhibits,upregulates,acetylated by
+tat	6667	regulates,enhances phosphorylation of,regulated by,activates,cooperates with,binds,synergizes with,requires,interacts with,upregulates,inhibits
+tat	8330	binds
+tat	8350	binds
+tat	8970	binds
+tat	121504	binds
+tat	8294	binds
+tat	2965	synergizes with,requires,interacts with,stimulates,binds
+tat	94239	binds
+tat	8329	binds
+tat	1958	binds
+tat	84823	binds
+tat	3013	binds
+tat	10923	binds
+tat	4035	inhibits,binds
+tat	6880	recruits,stabilizes,interacts with,binds
+tat	904	regulated by,stimulates,cooperates with,binds,recruits,complexes with,enhanced by,interacts with,requires,recruited by
+tat	8968	binds
+tat	8346	binds
+tat	6873	recruits,stabilizes,interacts with,binds
+tat	8341	binds
+tat	6385	binds
+tat	2068	synergizes with,requires,interacts with,stimulates,binds
+tat	4869	binds
+tat	80086	binds
+tat	8336	binds
+tat	8345	binds
+tat	898	stimulated by,induces,downregulates,binds
+tat	3843	imported by,binds
+tat	2321	activates,inhibited by,binds
+tat	4331	synergizes with,requires,interacts with,stimulates,binds
+tat	8351	binds
+tat	2071	synergizes with,regulated by,requires,interacts with,stimulates,binds
+tat	8340	binds
+tat	4773	enhances,dephosphorylates,inhibited by,binds
+tat	2967	synergizes with,requires,interacts with,stimulates,binds
+tat	2959	recruits,interacts with,inhibited by,binds
+tat	8335	binds
+tat	5511	inhibited by,binds
+tat	5813	regulated by,inhibits,cooperates with,binds
+tat	6877	recruits,stabilizes,interacts with,binds
+tat	3012	binds
+tat	5691	enhances,interacts with,inhibits,binds
+tat	3842	imported by,binds
+tat	1025	regulated by,stimulates,activates,cooperates with,binds,recruits,induces,requires,complexes with,enhanced by,interacts with,recruited by,inhibited by
+tat	5694	enhances,interacts with,inhibits,binds
+tat	5687	enhances,interacts with,inhibits,binds
+tat	1017	stimulated by,enhances,induces,downregulates,interacts with,phosphorylated by,binds
+tat	708	binds
+tat	3020	binds
+tat	8358	binds
+tat	5971	regulated by,interacts with,activates,binds
+tat	81027	enhances polymerization of,binds
+tat	5970	recruits,regulated by,interacts with,acetylates,upregulates,activates,binds
+tat	6878	recruits,stabilizes,interacts with,binds
+tat	10376	enhances polymerization of,binds
+tat	2968	synergizes with,requires,interacts with,stimulates,binds
+tat	8364	binds
+tat	3487	binds
+tat	8347	binds
+tat	3690	interacts with,upregulates,binds
+tat	51807	disrupts,enhances polymerization of,binds
+tat	2648	recruits,enhanced by,inhibits,binds,acetylated by
+tat	9150	inhibits,binds
+tat	6872	recruits,stabilizes,interacts with,stimulates,inhibits,binds
+tat	92815	binds
+tat	1231	induces,downregulates,binds
+tat	129685	recruits,stabilizes,interacts with,binds
+tat	5499	stimulated by,regulated by,binds
+tat	6879	recruits,stabilizes,interacts with,binds
+tat	8334	binds
+tat	8352	binds
+tat	7278	disrupts,enhances polymerization of,binds
+tat	1232	upregulates,binds
+tat	7057	inhibited by,binds
+tat	8359	binds
+tat	3018	binds
+tat	905	inhibited by,binds
+tat	3678	interacts with,upregulates,activates,binds
+tat	8367	binds
+tat	8348	binds
+tat	3021	binds
+tat	5610	downregulates,activates,binds,enhanced by,interacts with,inhibits,phosphorylated by,upregulates
+tat	255626	binds
+tat	3659	binds
+tat	22954	binds
+tat	7280	enhances polymerization of,binds
+tat	3688	interacts with,binds
+tat	6598	regulated by,binds
+tat	1051	interacts with,activates,modulated by,binds
+tat	5934	inhibits,binds
+tat	6882	recruits,stabilizes,interacts with,binds
+tat	128312	binds
+tat	6390	binds
+tat	55766	binds
+tat	7277	disrupts,enhances polymerization of,binds
+tat	7846	disrupts,enhances polymerization of,binds
+tat	9044	recruits,stabilizes,interacts with,binds
+tat	3017	binds
+tat	7852	upregulates,inhibits,binds
+tat	6881	recruits,stabilizes,interacts with,binds
+tat	5591	downregulates,binds
+tat	9555	binds
+tat	7157	induces,downregulates,interacts with,inhibits,inhibited by,cooperates with,binds
+tat	8362	binds
+tat	2896	inhibited by,binds
+tat	317772	binds
+tat	10383	enhances polymerization of,binds
+tat	8332	binds
+tat	1803	inhibits,binds
+tat	8354	binds
+tat	7067	synergizes with,binds
+tat	10382	enhances polymerization of,binds
+tat	8342	binds
+tat	54145	binds
+tat	8353	binds
+tat	4791	regulated by,interacts with,activates,binds
+tat	8365	binds
+tat	64919	inactivates,binds
+tat	8290	inhibits acetylation of,binds
+tat	8331	binds
+tat	29969	modulated by,binds
+tat	8339	binds
+tat	6382	binds
+tat	85235	binds
+vif	4734	binds
+vif	6303	modulates,binds
+vif	83737	binds
+vif	6921	complexes with,binds
+vif	11262	interacts with,binds
+vif	200316	inhibits,binds
+vif	54476	interacts with,binds
+vif	5478	binds
+vif	2547	binds
+vif	60489	degrades,interacts with,inhibits,binds
+vpr	3303	inhibited by,competes with,binds
+vpr	3838	interacts with,binds
+vpr	53371	binds
+vpr	5886	inhibits,inhibited by,binds
+vpr	291	binds
+vpr	995	inactivates,complexes with,induces release of,binds
+vpr	7533	enhanced by,complexes with,inhibits,binds
+vpr	10980	interacts with,binds
+vpr	2033	enhanced by,activates,binds
+vpr	1387	binds
+vpr	7374	incorporates,binds
+vpr	10309	incorporates,downregulates,complexes with,binds
+vpr	2959	binds
+vpr	904	binds
+vpr	3836	interacts with,binds
+vpr	6908	binds
+vpr	10971	inhibits,binds
+vpr	10992	interacts with,binds
+vpr	9730	binds
+vpr	54882	binds
+vpu	8945	recruits,inhibits,binds
+env_gp120	10242	interacts with
+env_gp120	836	interacts with,activates
+env_gp120	7368	interacts with,binds
+env_gp120	5568	inactivates,interacts with
+env_gp120	27094	interacts with
+env_gp120	3134	interacts with,complexes with
+env_gp120	714	interacts with,binds
+env_gp120	3603	interacts with
+env_gp120	27345	interacts with
+env_gp120	914	interacts with,inhibited by
+env_gp120	1755	interacts with,inhibited by,binds
+env_gp120	3122	interacts with,upregulates,inhibits
+env_gp120	5787	interacts with
+env_gp120	5800	interacts with
+env_gp120	4360	interacts with,binds
+env_gp120	348	interacts with
+env_gp120	5583	regulated by,interacts with,upregulates
+env_gp120	4986	interacts with
+env_gp120	3683	interacts with,mediated by
+env_gp120	1803	relocalizes,interacts with,inhibits,cleaved by
+env_gp120	6387	interacts with,inhibits,inhibited by
+env_gp120	4296	interacts with
+env_gp120	3126	interacts with,upregulates,inhibits
+env_gp120	116444	interacts with,activates,binds
+env_gp120	1604	interacts with
+env_gp120	2247	regulated by,interacts with
+env_gp120	2903	sensitizes,interacts with,activates,binds
+env_gp120	3676	interacts with
+env_gp120	920	downregulates,stimulates,binds,induces phosphorylation of,relocalizes,complexes with,cleavage induced by,requires,interacts with,inhibits,downregulated by,inhibited by
+env_gp120	952	interacts with,inhibited by
+env_gp120	3125	interacts with,upregulates,inhibits
+env_gp120	3119	interacts with,inhibits
+env_gp120	5894	interacts with
+env_gp120	5743	interacts with,upregulates
+env_gp120	916	interacts with,stimulates,inhibits
+env_gp120	2100	interacts with
+env_gp120	3135	interacts with,complexes with
+env_gp120	7133	interacts with
+env_gp120	3780	interacts with
+env_gp120	3383	incorporates,interacts with,upregulates
+env_gp120	3111	interacts with,inhibits
+env_gp120	9629	interacts with
+env_gp120	2906	sensitizes,interacts with,activates,binds
+env_gp120	5579	regulated by,interacts with,upregulates
+env_gp120	940	interacts with,inhibits,inhibited by
+env_gp120	4312	interacts with
+env_gp120	7157	induces phosphorylation of,interacts with,upregulates
+env_gp120	3574	interacts with
+env_gp120	7040	interacts with,upregulates
+env_gp120	7052	interacts with
+env_gp120	5578	regulated by,interacts with,upregulates
+env_gp120	6348	downregulates,interacts with,induces release of,inhibits
+env_gp120	3552	interacts with,upregulates
+env_gp120	3458	downregulates,interacts with,induces release of,inhibits,upregulates,inhibited by
+env_gp120	627	interacts with
+env_gp120	3105	interacts with,complexes with
+env_gp120	7535	interacts with
+env_gp120	6351	downregulates,interacts with,induces release of,inhibits,inhibited by
+env_gp120	3782	interacts with
+env_gp120	4314	interacts with
+env_gp120	7053	interacts with
+env_gp120	2825	interacts with
+env_gp120	939	interacts with
+env_gp120	2353	interacts with,upregulates,activates,inhibits
+env_gp120	3112	interacts with,inhibits
+env_gp120	3565	downregulates,interacts with,upregulates,cooperates with
+env_gp120	713	interacts with,binds
+env_gp120	3689	interacts with
+env_gp120	718	cleaves,interacts with,binds
+env_gp120	5580	regulated by,interacts with,upregulates
+env_gp120	5786	interacts with
+env_gp120	1432	interacts with,upregulates,activates,inhibited by
+env_gp120	30835	enhanced by,interacts with,complexes with,mediated by,binds
+env_gp120	116443	interacts with,activates,binds
+env_gp120	187	interacts with,binds
+env_gp120	3133	interacts with,complexes with
+env_gp120	3115	interacts with,inhibits
+env_gp120	3781	interacts with
+env_gp120	3123	interacts with,upregulates,inhibits
+env_gp120	6506	interacts with
+env_gp120	5588	regulated by,interacts with,upregulates
+env_gp120	2907	sensitizes,interacts with,activates,binds
+env_gp120	6693	interacts with
+env_gp120	5788	regulated by,interacts with,modulated by
+env_gp120	3932	induces phosphorylation of,regulated by,requires,interacts with,inhibits,activates
+env_gp120	3107	interacts with,complexes with
+env_gp120	712	interacts with,binds
+env_gp120	9333	interacts with
+env_gp120	2904	sensitizes,interacts with,activates,binds
+env_gp120	1179	interacts with
+env_gp120	4842	interacts with
+env_gp120	1234	downregulates,activates,mediated by,binds,interacts with,complexes with,inhibits,inhibited by
+env_gp120	116179	interacts with
+env_gp120	3558	downregulates,interacts with,enhanced by,inhibits,upregulates,inhibited by
+env_gp120	3725	downregulates,interacts with,upregulates,activates,inhibits
+env_gp120	213	interacts with,binds
+env_gp120	9635	interacts with
+env_gp120	7051	interacts with
+env_gp120	917	interacts with,stimulates,inhibits
+env_gp120	5576	inactivates,interacts with
+env_gp120	8459	interacts with
+env_gp120	3075	interacts with
+env_gp120	4790	interacts with,upregulates,activates,inhibits
+env_gp120	5573	inactivates,interacts with
+env_gp120	3106	interacts with,complexes with
+env_gp120	355	relocalizes,interacts with,upregulates,modulated by
+env_gp120	2670	downregulates,interacts with,decreases phosphorylation of
+env_gp120	3687	interacts with
+env_gp120	9902	interacts with,binds
+env_gp120	3108	interacts with,inhibits
+env_gp120	581	interacts with,upregulates
+env_gp120	7124	enhances,downregulates,interacts with,induces release of,upregulates
+env_gp120	1366	interacts with
+env_gp120	2902	sensitizes,interacts with,activates,binds
+env_gp120	4092	interacts with
+env_gp120	10663	interacts with,binds
+env_gp120	343641	interacts with
+env_gp120	3117	interacts with,inhibits
+env_gp120	7448	interacts with
+env_gp120	5582	regulated by,interacts with,upregulates
+env_gp120	356	interacts with,upregulates
+env_gp120	8460	interacts with
+env_gp120	7047	interacts with
+env_gp120	721	interacts with,binds
+env_gp120	915	interacts with,stimulates,inhibits
+env_gp120	2099	interacts with
+env_gp120	3685	interacts with
+env_gp120	3109	interacts with,inhibits
+env_gp120	966	interacts with
+env_gp120	5590	regulated by,interacts with,upregulates
+env_gp120	3120	interacts with,inhibits
+env_gp120	3778	interacts with
+env_gp120	5567	inactivates,interacts with
+env_gp120	3684	interacts with
+env_gp120	834	interacts with,upregulates
+env_gp120	3956	interacts with
+env_gp120	22802	interacts with
+env_gp120	5566	inactivates,interacts with
+env_gp120	3118	interacts with,inhibits
+env_gp120	5742	interacts with,upregulates
+env_gp120	3783	interacts with
+env_gp120	7852	downregulates,mediated by,binds,induces phosphorylation of,complexes with,interacts with,relocalizes,inhibits
+env_gp120	5584	regulated by,interacts with,upregulates
+env_gp120	965	interacts with,inhibited by
+env_gp120	5581	regulated by,interacts with,upregulates
+env_gp120	3127	interacts with,upregulates,inhibits
+env_gp120	2905	sensitizes,interacts with,activates,binds
+env_gp120	3113	interacts with,inhibits
+env_gp120	1240	interacts with
+env_gp120	2770	interacts with
+env_gp160	3127	associates with,interacts with
+env_gp160	3126	associates with,interacts with
+env_gp160	5590	interacts with
+env_gp160	3107	interacts with
+env_gp160	598	interacts with
+env_gp160	5584	interacts with
+env_gp160	3106	interacts with
+env_gp160	3574	interacts with
+env_gp160	5583	interacts with
+env_gp160	3383	interacts with
+env_gp160	1380	interacts with
+env_gp160	7040	interacts with,upregulates
+env_gp160	3932	interacts with,activates
+env_gp160	940	interacts with
+env_gp160	3105	interacts with,binds
+env_gp160	5582	interacts with
+env_gp160	3125	associates with,interacts with
+env_gp160	5588	interacts with
+env_gp160	6520	regulated by,interacts with
+env_gp160	8140	regulated by,interacts with
+env_gp160	3592	interacts with
+env_gp160	50507	interacts with
+env_gp160	5581	interacts with
+env_gp160	5265	interacts with
+env_gp160	3134	interacts with
+env_gp160	5578	relocalizes,interacts with
+env_gp160	5580	interacts with
+env_gp160	3133	interacts with
+env_gp160	3123	associates with,interacts with
+env_gp160	3683	downregulates,interacts with,inhibits
+env_gp160	3309	interacts with
+env_gp160	5579	relocalizes,interacts with
+env_gp160	6422	interacts with,upregulates
+env_gp160	50508	interacts with
+env_gp160	3122	associates with,interacts with
+env_gp160	920	downregulates,complexes with,interacts with,binds
+env_gp160	3593	interacts with
+env_gp160	79400	interacts with
+env_gp160	27035	interacts with
+env_gp160	3135	interacts with
+env_gp41	8906	interacts with
+env_gp41	1173	interacts with
+env_gp41	836	interacts with
+env_gp41	7852	complexes with,interacts with
+env_gp41	8907	interacts with
+env_gp41	3569	interacts with,upregulates
+env_gp41	3458	interacts with,upregulates
+env_gp41	10947	interacts with
+env_gp41	3075	interacts with
+env_gp41	10053	interacts with
+env_gp41	1803	interacts with
+env_gp41	1991	interacts with
+env_gp41	1175	interacts with
+env_gp41	10488	interacts with,downregulated by
+env_gp41	9138	interacts with
+env_gp41	8905	interacts with
+env_gp41	160	interacts with
+env_gp41	712	interacts with,binds
+env_gp41	5199	interacts with
+env_gp41	713	interacts with,binds
+env_gp41	920	complexes with,interacts with
+env_gp41	714	interacts with,binds
+env_gp41	1234	induces phosphorylation of,complexes with,interacts with,upregulates
+env_gp41	1174	interacts with
+env_gp41	164	interacts with
+env_gp41	163	interacts with
+env_gp41	161	interacts with
+env_gp41	1495	interacts with
+gag_capsid	5478	interacts with,modulates,protects,isomerized by,binds
+gag_capsid	915	interacts with,inhibits
+gag_capsid	5329	interacts with
+gag_capsid	3735	interacts with
+gag_capsid	919	interacts with,inhibits
+gag_capsid	916	interacts with,inhibits
+gag_capsid	914	interacts with
+gag_capsid	7453	interacts with
+gag_capsid	917	interacts with,inhibits
+gag_matrix	8943	interacts with
+gag_matrix	60	interacts with
+gag_matrix	70	interacts with
+gag_matrix	50810	interacts with
+gag_matrix	59	interacts with
+gag_matrix	71	interacts with
+gag_matrix	72	interacts with
+gag_nucleocapsid	60489	interacts with
+gag_p6	7341	interacts with
+gag_p6	60489	interacts with
+gag_p6	92421	interacts with,inhibited by
+gag_p6	29082	interacts with,inhibited by
+gag_p6	7329	interacts with
+gag_p6	128866	interacts with,inhibited by
+gag_pr55	6059	associates with,interacts with
+gag_pr55	3735	incorporates,interacts with
+gag_pr55	302	co-localizes with,interacts with
+gag_pr55	1660	interacts with
+gag_pr55	27067	interacts with
+gag_pr55	6780	interacts with
+gag_pr55	6449	interacts with
+nef	162	stabilizes,interacts with,binds
+nef	8906	stabilizes,interacts with,binds
+nef	3932	inactivates,requires,interacts with,upregulates,binds
+nef	5879	interacts with,activates
+nef	8907	stabilizes,interacts with,binds
+nef	3708	interacts with
+nef	3337	interacts with,upregulates
+nef	60	interacts with,induces rearrangement of
+nef	805	interacts with
+nef	1213	interacts with
+nef	9844	interacts with
+nef	5588	interacts with
+nef	919	interacts with,upregulates
+nef	808	interacts with
+nef	26985	interacts with
+nef	8905	stabilizes,interacts with,binds
+nef	3123	interacts with
+nef	5290	downregulates,interacts with,upregulates
+nef	1025	interacts with,upregulates
+nef	998	interacts with,upregulates,inhibits
+nef	3055	requires,interacts with,activates,inhibits,binds
+nef	4067	interacts with,activates
+nef	3684	interacts with
+nef	2833	interacts with
+nef	3558	downregulates,induces,interacts with,upregulates,inhibits
+nef	7157	interacts with,binds
+nef	3683	interacts with
+nef	801	interacts with,binds
+nef	7852	downregulates,interacts with,inhibits
+nef	1174	stabilizes,interacts with,binds
+nef	4836	myristoylated by,interacts with
+nef	5880	interacts with
+nef	3383	interacts with,induces release of
+nef	1794	interacts with
+nef	920	degrades,downregulates,interacts with,modulates,binds
+nef	10233	interacts with
+nef	5062	associates with,co-localizes with,interacts with,activates,binds
+pol_integrase	56852	interacts with
+pol_integrase	472	interacts with
+pol_integrase	5371	interacts with
+pol_integrase	8815	interacts with
+pol_integrase	11168	stimulated by,co-localizes with,regulated by,imported by,interacts with,binds
+pol_integrase	2547	associates with,interacts with
+pol_integrase	2010	interacts with
+pol_integrase	545	interacts with
+pol_integrase	8726	stimulated by,interacts with
+pol_integrase	3336	interacts with
+pol_integrase	5591	interacts with
+pol_integrase	7520	associates with,interacts with
+pol_integrase	6598	stimulated by,recruits,interacts with,inhibited by,binds
+pol_reversetranscriptase	7157	interacts with
+pol_reversetranscriptase	50810	interacts with
+rev	1660	interacts with
+rev	8021	recruits,interacts with,inhibited by
+rev	6125	interacts with
+rev	23636	interacts with
+rev	7514	recruits,co-localizes with,exported by,interacts with,enhanced by,sequesters,modulated by,binds
+rev	3190	interacts with
+rev	1984	interacts with,binds
+rev	4869	associates with,stimulated by,interacts with,binds
+rev	9972	interacts with,inhibited by
+rev	11097	interacts with
+rev	4928	recruits,interacts with,inhibited by
+rev	26986	interacts with
+rev	1653	relocalized by,interacts with
+rev	6426	requires,interacts with,inhibits,inhibited by
+tat	5719	enhances,interacts with,inhibits
+tat	5695	enhances,interacts with,inhibits,binds
+tat	5715	enhances,interacts with,inhibits
+tat	5689	enhances,interacts with,inhibits,binds
+tat	6387	stimulated by,induces,interacts with,upregulates,inhibits,competes with
+tat	10575	interacts with
+tat	9491	enhances,interacts with,inhibits
+tat	8148	recruits,stabilizes,interacts with,binds
+tat	3439	interacts with,upregulates,inhibits
+tat	3383	interacts with,upregulates
+tat	6917	synergizes with,interacts with
+tat	1022	synergizes with,requires,interacts with,stimulates,binds
+tat	8850	recruits,synergizes with,regulated by,interacts with,complexes with,inhibits,binds,acetylated by
+tat	3685	interacts with,binds
+tat	916	interacts with
+tat	596	downregulates,interacts with,upregulates
+tat	6884	recruits,stabilizes,interacts with,binds
+tat	1173	interacts with
+tat	5289	interacts with,activates,inhibited by
+tat	5683	enhances,interacts with,inhibits,binds
+tat	5291	interacts with,activates,inhibited by
+tat	5686	enhances,interacts with,inhibits
+tat	5714	enhances,interacts with,inhibits
+tat	5982	interacts with
+tat	3693	interacts with,binds
+tat	6671	interacts with
+tat	5700	enhances,interacts with,inhibits
+tat	4790	recruits,regulated by,interacts with,acetylates,activates,binds
+tat	6874	recruits,stabilizes,interacts with,binds
+tat	5696	enhances,interacts with,upregulates,inhibits,binds
+tat	2033	regulates,regulated by,modulates,activates,binds,recruits,induces,complexes with,interacts with,acetylated by
+tat	23198	enhances,interacts with,inhibits
+tat	2247	synergizes with,interacts with,inhibits,competes with
+tat	5701	stimulated by,enhances,interacts with,inhibits
+tat	896	interacts with
+tat	2963	synergizes with,requires,interacts with
+tat	5690	enhances,interacts with,inhibits,binds
+tat	5294	interacts with,activates,inhibited by
+tat	902	synergizes with,requires,interacts with,stimulates,binds
+tat	5709	enhances,interacts with,inhibits
+tat	6883	recruits,stabilizes,interacts with,binds
+tat	2966	synergizes with,requires,interacts with,stimulates,binds
+tat	1950	interacts with
+tat	6908	recruits,synergizes with,stabilizes,requires,interacts with,binds
+tat	7520	interacts with
+tat	160	interacts with
+tat	5685	enhances,interacts with,inhibits,binds
+tat	890	interacts with
+tat	4940	interacts with
+tat	5699	enhances,interacts with,upregulates,inhibits,binds
+tat	5693	enhances,interacts with,inhibits,binds
+tat	4939	interacts with
+tat	6919	synergizes with,interacts with
+tat	1019	requires,interacts with
+tat	5688	enhances,interacts with,inhibits,binds
+tat	5888	interacts with,enhanced by,upregulates
+tat	5500	stimulated by,regulated by,interacts with
+tat	9861	enhances,interacts with,inhibits
+tat	6667	regulates,enhances phosphorylation of,regulated by,activates,cooperates with,binds,synergizes with,requires,interacts with,upregulates,inhibits
+tat	8178	interacts with
+tat	917	interacts with
+tat	919	interacts with
+tat	5287	interacts with,activates,inhibited by
+tat	2965	synergizes with,requires,interacts with,stimulates,binds
+tat	5716	enhances,interacts with,inhibits
+tat	6880	recruits,stabilizes,interacts with,binds
+tat	904	regulated by,stimulates,cooperates with,binds,recruits,complexes with,enhanced by,interacts with,requires,recruited by
+tat	6873	recruits,stabilizes,interacts with,binds
+tat	1027	interacts with
+tat	2629	interacts with
+tat	2068	synergizes with,requires,interacts with,stimulates,binds
+tat	5288	interacts with,activates,inhibited by
+tat	6670	interacts with,upregulates,inhibited by
+tat	5707	enhances,interacts with,inhibits
+tat	5710	enhances,interacts with,inhibits
+tat	4331	synergizes with,requires,interacts with,stimulates,binds
+tat	5058	interacts with
+tat	5720	enhances,interacts with,inhibits
+tat	1915	interacts with
+tat	2071	synergizes with,regulated by,requires,interacts with,stimulates,binds
+tat	5966	downregulates,interacts with,upregulates
+tat	1965	interacts with,competes with
+tat	5981	interacts with
+tat	5708	enhances,interacts with,inhibits
+tat	2967	synergizes with,requires,interacts with,stimulates,binds
+tat	2959	recruits,interacts with,inhibited by,binds
+tat	5682	enhances,interacts with,inhibits
+tat	8900	interacts with
+tat	58155	interacts with
+tat	9412	interacts with
+tat	7076	downregulates,interacts with
+tat	5717	enhances,interacts with,inhibits
+tat	6595	interacts with
+tat	581	interacts with,upregulates
+tat	6877	recruits,stabilizes,interacts with,binds
+tat	5691	enhances,interacts with,inhibits,binds
+tat	892	interacts with
+tat	1025	regulated by,stimulates,activates,cooperates with,binds,recruits,induces,requires,complexes with,enhanced by,interacts with,recruited by,inhibited by
+tat	5694	enhances,interacts with,inhibits,binds
+tat	5984	interacts with
+tat	3458	synergizes with,induces,interacts with,inhibits release of,upregulates,inhibits,inhibited by
+tat	5687	enhances,interacts with,inhibits,binds
+tat	1017	stimulated by,enhances,induces,downregulates,interacts with,phosphorylated by,binds
+tat	5705	enhances,interacts with,inhibits
+tat	6122	interacts with
+tat	2960	interacts with
+tat	5971	regulated by,interacts with,activates,binds
+tat	983	enhances,interacts with
+tat	5970	recruits,regulated by,interacts with,acetylates,upregulates,activates,binds
+tat	6878	recruits,stabilizes,interacts with,binds
+tat	4853	interacts with
+tat	2968	synergizes with,requires,interacts with,stimulates,binds
+tat	3339	interacts with
+tat	5111	interacts with
+tat	990	interacts with
+tat	3690	interacts with,upregulates,binds
+tat	5718	enhances,interacts with,inhibits
+tat	6872	recruits,stabilizes,interacts with,stimulates,inhibits,binds
+tat	5286	interacts with,activates,inhibited by
+tat	163	interacts with
+tat	7025	interacts with
+tat	6923	interacts with
+tat	129685	recruits,stabilizes,interacts with,binds
+tat	6879	recruits,stabilizes,interacts with,binds
+tat	1175	interacts with
+tat	2962	enhances phosphorylation of,synergizes with,requires,interacts with,inhibits
+tat	2353	enhances,interacts with,upregulates,activates
+tat	5711	enhances,interacts with,inhibits
+tat	7124	regulated by,downregulates,activated by,synergizes with,induces,interacts with,inhibits,upregulates
+tat	5692	enhances,interacts with,inhibits
+tat	5706	enhances,interacts with,inhibits
+tat	653361	enhances phosphorylation of,interacts with,upregulates
+tat	5295	interacts with,activates,inhibited by
+tat	8894	interacts with,competes with
+tat	3791	upregulated by,interacts with,activates
+tat	3678	interacts with,upregulates,activates,binds
+tat	10855	interacts with
+tat	5290	interacts with,activates,inhibited by
+tat	5721	enhances,interacts with,inhibits
+tat	5610	downregulates,activates,binds,enhanced by,interacts with,inhibits,phosphorylated by,upregulates
+tat	5430	induces phosphorylation of,interacts with,stimulates
+tat	5426	interacts with
+tat	5983	interacts with
+tat	5702	enhances,interacts with,inhibits,inhibited by
+tat	3688	interacts with,binds
+tat	1917	interacts with
+tat	1051	interacts with,activates,modulated by,binds
+tat	6882	recruits,stabilizes,interacts with,binds
+tat	1024	interacts with
+tat	940	interacts with,inhibited by
+tat	4938	interacts with
+tat	9044	recruits,stabilizes,interacts with,binds
+tat	7077	downregulates,interacts with
+tat	1968	interacts with,competes with
+tat	6741	interacts with
+tat	6881	recruits,stabilizes,interacts with,binds
+tat	3456	interacts with,inhibits,inhibited by
+tat	5698	enhances,downregulates,interacts with,inhibits
+tat	5704	enhances,interacts with,inhibits
+tat	161	interacts with
+tat	7157	induces,downregulates,interacts with,inhibits,inhibited by,cooperates with,binds
+tat	2547	interacts with
+tat	5296	interacts with,activates,inhibited by
+tat	5985	interacts with
+tat	915	interacts with
+tat	2961	interacts with
+tat	6117	interacts with
+tat	10197	enhances,interacts with,inhibits
+tat	3689	interacts with,upregulates,inhibits
+tat	3691	interacts with
+tat	5293	interacts with,activates,inhibited by
+tat	5684	enhances,interacts with,inhibits
+tat	4791	regulated by,interacts with,activates,binds
+tat	5713	enhances,interacts with,inhibits
+tat	10018	interacts with
+tat	5725	interacts with
+vif	5721	interacts with
+vif	5698	interacts with
+vif	23198	interacts with
+vif	5699	interacts with
+vif	5706	interacts with
+vif	5720	interacts with
+vif	5709	interacts with
+vif	5687	interacts with
+vif	9491	interacts with
+vif	5719	interacts with
+vif	5691	interacts with
+vif	5714	interacts with
+vif	5711	interacts with
+vif	8065	interacts with,complexes with
+vif	9861	interacts with
+vif	5690	interacts with
+vif	5688	interacts with
+vif	11262	interacts with,binds
+vif	5692	interacts with
+vif	5705	interacts with
+vif	5700	interacts with
+vif	5685	interacts with
+vif	5702	interacts with
+vif	5716	interacts with
+vif	5696	interacts with
+vif	5684	interacts with
+vif	5693	interacts with
+vif	54476	interacts with,binds
+vif	5701	interacts with
+vif	5686	interacts with
+vif	5717	interacts with
+vif	5713	interacts with
+vif	5683	interacts with
+vif	5708	interacts with
+vif	5718	interacts with
+vif	5694	interacts with
+vif	10197	interacts with
+vif	5710	interacts with
+vif	5682	interacts with
+vif	5704	interacts with
+vif	5689	interacts with
+vif	5707	interacts with
+vif	5695	interacts with
+vif	5715	interacts with
+vif	60489	degrades,interacts with,inhibits,binds
+vpr	3838	interacts with,binds
+vpr	10980	interacts with,binds
+vpr	10728	interacts with
+vpr	545	interacts with,activates
+vpr	7465	downregulates,interacts with,induces release of,upregulates,inhibited by
+vpr	6117	interacts with
+vpr	7157	regulated by,interacts with,inhibits,activates
+vpr	2908	interacts with,complexes with,activates
+vpr	1026	interacts with,upregulates,activates
+vpr	4790	regulates,downregulates,interacts with,inhibits,activates
+vpr	6667	interacts with,cooperates with
+vpr	3836	interacts with,binds
+vpr	50810	interacts with
+vpr	7416	interacts with
+vpr	1025	interacts with
+vpr	11097	interacts with
+vpr	10992	interacts with,binds
+vpu	6449	interacts with
+vpu	3777	interacts with

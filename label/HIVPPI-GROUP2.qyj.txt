@@ -1,0 +1,1665 @@
+env_gp120	81579	activates
+env_gp120	335	competes with
+env_gp120	3444	downregulates,enhanced by,upregulates,inhibited by
+env_gp120	3312	upregulates,inhibited by
+env_gp120	5436	upregulates
+env_gp120	2217	inhibits
+env_gp120	26279	activates
+env_gp120	3592	downregulates,upregulates,inhibited by
+env_gp120	3910	inhibits
+env_gp120	5047	inhibited by
+env_gp120	3718	downregulates
+env_gp120	825	activates
+env_gp120	8862	inhibited by
+env_gp120	8520	upregulates
+env_gp120	6366	inhibits
+env_gp120	2534	activates
+env_gp120	5934	upregulates
+env_gp120	2208	upregulates
+env_gp120	4776	activates,inhibits
+env_gp120	2475	upregulates
+env_gp120	959	inhibits
+env_gp120	57134	processed by
+env_gp120	5330	inactivates
+env_gp120	9641	activates
+env_gp120	7037	downregulates,upregulates
+env_gp120	4826	downregulates
+env_gp120	5500	upregulates
+env_gp120	5598	activates
+env_gp120	3561	downregulates
+env_gp120	84790	induces acetylation of
+env_gp120	8567	upregulates
+env_gp120	4125	processed by
+env_gp120	113	stimulates
+env_gp120	55830	processed by
+env_gp120	30814	activates
+env_gp120	5595	regulated by,stimulates,activates
+env_gp120	5336	inactivates
+env_gp120	7422	modulates
+env_gp120	57704	glycosylated by,processed by
+env_gp120	10000	regulated by,modulated by,decreases phosphorylation of,inhibited by
+env_gp120	4122	processed by
+env_gp120	6375	upregulates
+env_gp120	821	associates with
+env_gp120	8795	upregulates
+env_gp120	83468	processed by
+env_gp120	5600	activates
+env_gp120	11253	processed by
+env_gp120	7277	induces acetylation of,upregulates
+env_gp120	6772	regulated by
+env_gp120	928	inhibited by
+env_gp120	250	downregulates
+env_gp120	10013	inhibited by
+env_gp120	3553	induces release of,upregulates
+env_gp120	8797	upregulates
+env_gp120	50508	activates
+env_gp120	5431	upregulates
+env_gp120	9414	downregulates
+env_gp120	1147	stimulates
+env_gp120	824	activates
+env_gp120	3082	inhibited by
+env_gp120	4609	downregulates
+env_gp120	2962	upregulates
+env_gp120	6403	induces cleavage of
+env_gp120	3562	modulates
+env_gp120	2185	induces phosphorylation of
+env_gp120	6774	upregulates
+env_gp120	7531	downregulates
+env_gp120	4049	upregulates
+env_gp120	3945	induces release of
+env_gp120	8794	upregulates
+env_gp120	941	inhibits,inhibited by
+env_gp120	596	downregulates
+env_gp120	7941	activates
+env_gp120	7433	activates
+env_gp120	5443	upregulates
+env_gp120	79709	processed by
+env_gp120	4121	processed by
+env_gp120	6386	upregulates
+env_gp120	4087	induces phosphorylation of
+env_gp120	317	upregulates
+env_gp120	111	stimulates
+env_gp120	6776	downregulates
+env_gp120	11034	upregulates
+env_gp120	5962	relocalizes
+env_gp120	1437	induces release of
+env_gp120	196883	stimulates
+env_gp120	1056	inhibited by
+env_gp120	6402	downregulates
+env_gp120	1869	requires,activates
+env_gp120	4792	induces phosphorylation of,upregulates,inhibited by
+env_gp120	4772	activates,inhibits
+env_gp120	7841	glycosylated by,processed by
+env_gp120	3309	upregulates,inhibited by
+env_gp120	351	inhibited by
+env_gp120	4067	activates
+env_gp120	5604	upregulates
+env_gp120	23237	upregulates
+env_gp120	5320	activates
+env_gp120	10905	processed by
+env_gp120	107	stimulates
+env_gp120	4149	downregulates
+env_gp120	823	activates
+env_gp120	2963	upregulates
+env_gp120	57733	glycosylated by,processed by
+env_gp120	7432	inhibited by
+env_gp120	974	downregulates
+env_gp120	5435	upregulates
+env_gp120	1524	associates with,inhibited by
+env_gp120	4133	upregulates
+env_gp120	207	regulated by,modulated by,decreases phosphorylation of,inhibited by
+env_gp120	975	inhibited by
+env_gp120	23236	inactivates
+env_gp120	3456	modulates,upregulates
+env_gp120	5437	upregulates
+env_gp120	7082	downregulates
+env_gp120	8605	activates
+env_gp120	7295	modified by
+env_gp120	4773	activates,inhibits
+env_gp120	1509	modified by
+env_gp120	208	regulated by,modulated by,decreases phosphorylation of,inhibited by
+env_gp120	8600	upregulates
+env_gp120	3313	upregulates,inhibited by
+env_gp120	1510	processed by
+env_gp120	55849	processed by
+env_gp120	142	upregulates,induces cleavage of
+env_gp120	84812	inactivates
+env_gp120	5304	inhibited by
+env_gp120	6356	inhibited by
+env_gp120	5526	upregulates
+env_gp120	360203	processed by
+env_gp120	6376	inhibited by
+env_gp120	23613	upregulates
+env_gp120	2838	activates
+env_gp120	284217	inhibits
+env_gp120	3308	upregulates,inhibited by
+env_gp120	5605	upregulates
+env_gp120	3559	downregulates,upregulates
+env_gp120	225689	activates
+env_gp120	2548	glycosylated by,processed by
+env_gp120	51454	upregulates
+env_gp120	27035	activates
+env_gp120	5430	upregulates
+env_gp120	5295	regulated by,induces phosphorylation of,activates,modulated by,mediated by
+env_gp120	3716	upregulates
+env_gp120	7529	upregulates
+env_gp120	7412	upregulates
+env_gp120	3586	upregulates,cooperates with
+env_gp120	5286	regulated by,activates,modulated by,mediated by
+env_gp120	6347	enhances,upregulates
+env_gp120	114	stimulates
+env_gp120	3551	stimulates
+env_gp120	3569	induces release of,upregulates
+env_gp120	3560	downregulates
+env_gp120	2919	upregulates
+env_gp120	5296	regulated by,induces phosphorylation of,activates,modulated by,mediated by
+env_gp120	51196	inactivates
+env_gp120	113026	inactivates
+env_gp120	1230	associates with
+env_gp120	51182	upregulates,inhibited by
+env_gp120	2246	inhibits
+env_gp120	5335	inactivates
+env_gp120	5781	activates
+env_gp120	2357	downregulates,inhibited by
+env_gp120	6647	inhibited by
+env_gp120	977	downregulates
+env_gp120	5479	inhibits
+env_gp120	51807	induces acetylation of
+env_gp120	3479	inhibited by
+env_gp120	1026	upregulates
+env_gp120	144423	processed by
+env_gp120	54205	relocalizes,induces release of
+env_gp120	10673	cooperates with
+env_gp120	5433	upregulates
+env_gp120	4793	upregulates
+env_gp120	3627	upregulates
+env_gp120	5321	activates
+env_gp120	7421	deglycosylates
+env_gp120	969	downregulates
+env_gp120	5294	regulated by,activates,modulated by,mediated by
+env_gp120	8681	activates
+env_gp120	891	induces accumulation of
+env_gp120	84647	activates
+env_gp120	116835	upregulates,inhibited by
+env_gp120	23193	glycosylated by,processed by
+env_gp120	3454	upregulates
+env_gp120	5287	regulated by,activates,modulated by,mediated by
+env_gp120	5244	upregulates
+env_gp120	5603	activates
+env_gp120	5055	upregulates
+env_gp120	839	upregulates
+env_gp120	7846	induces acetylation of
+env_gp120	50507	activates
+env_gp120	5319	activates
+env_gp120	3600	modulates
+env_gp120	2619	upregulates
+env_gp120	50487	activates
+env_gp120	5322	activates
+env_gp120	6863	upregulates
+env_gp120	9651	inactivates
+env_gp120	89869	inactivates
+env_gp120	4758	processed by
+env_gp120	6422	upregulates
+env_gp120	2204	inhibits
+env_gp120	3094	upregulates
+env_gp120	4313	upregulates
+env_gp120	4676	modulates
+env_gp120	64600	activates
+env_gp120	23127	processed by
+env_gp120	5599	induces phosphorylation of,upregulates,activates,decreases phosphorylation of
+env_gp120	112	stimulates
+env_gp120	2595	glycosylated by,processed by
+env_gp120	3303	upregulates,inhibited by
+env_gp120	5438	upregulates
+env_gp120	5293	regulated by,activates,modulated by,mediated by
+env_gp120	248	downregulates
+env_gp120	5594	regulated by,stimulates,activates,decreases phosphorylation of
+env_gp120	3908	inhibits
+env_gp120	5434	upregulates
+env_gp120	340273	upregulates
+env_gp120	55627	activates
+env_gp120	3480	upregulates
+env_gp120	103	inhibits
+env_gp120	3440	downregulates,enhanced by,upregulates,inhibited by
+env_gp120	3976	modulates
+env_gp120	2358	activates
+env_gp120	4843	upregulates
+env_gp120	3576	upregulates
+env_gp120	7015	downregulates
+env_gp120	4950	downregulates
+env_gp120	5243	upregulates
+env_gp120	5478	requires,inhibits
+env_gp120	10825	processed by
+env_gp120	3306	upregulates,inhibited by
+env_gp120	115	stimulates
+env_gp120	27113	upregulates
+env_gp120	10787	upregulates
+env_gp120	3593	downregulates,upregulates,inhibited by
+env_gp120	92140	upregulates
+env_gp120	1236	upregulates,inhibits
+env_gp120	5290	regulated by,activates,modulated by,mediated by
+env_gp120	4791	upregulates
+env_gp120	983	upregulates,induces accumulation of
+env_gp120	5596	activates
+env_gp120	23007	inactivates
+env_gp120	255189	activates
+env_gp120	3310	upregulates,inhibited by
+env_gp120	5333	inactivates
+env_gp120	1386	upregulates
+env_gp120	958	upregulates,inhibits
+env_gp120	898	downregulates
+env_gp120	3439	downregulates,enhanced by,upregulates,inhibited by
+env_gp120	2821	inhibits
+env_gp120	7188	upregulates
+env_gp120	7431	decreases phosphorylation of
+env_gp120	5441	upregulates
+env_gp120	6300	activates
+env_gp120	6355	inhibited by
+env_gp120	108	stimulates
+env_gp120	9131	relocalizes
+env_gp120	842	activates
+env_gp120	4775	activates,inhibits
+env_gp120	3460	upregulates
+env_gp120	4988	upregulates
+env_gp120	104	inhibits
+env_gp120	197257	induces release of
+env_gp120	2033	enhanced by,upregulates
+env_gp120	171558	inactivates
+env_gp120	3939	induces release of
+env_gp120	6610	activates
+env_gp120	249	downregulates
+env_gp120	5288	regulated by,activates,modulated by,mediated by
+env_gp120	283748	activates
+env_gp120	5923	downregulates
+env_gp120	3948	induces release of
+env_gp120	3911	inhibits
+env_gp120	5756	upregulates
+env_gp120	3675	upregulates
+env_gp120	1977	upregulates
+env_gp120	6777	downregulates
+env_gp120	3909	inhibits
+env_gp120	6354	inhibited by
+env_gp120	5601	induces phosphorylation of,activates,decreases phosphorylation of
+env_gp120	4124	processed by
+env_gp120	5332	inactivates
+env_gp120	2056	inhibited by
+env_gp120	1027	upregulates
+env_gp120	8743	upregulates
+env_gp120	240	upregulates
+env_gp120	8793	upregulates
+env_gp120	22861	upregulates
+env_gp120	4318	induces release of
+env_gp120	4247	processed by
+env_gp120	912	downregulates
+env_gp120	51652	downregulates
+env_gp120	6531	downregulates
+env_gp120	79400	activates
+env_gp120	3620	induces release of
+env_gp120	2876	inhibited by
+env_gp120	3163	upregulates
+env_gp120	6352	downregulates,induces release of,upregulates,inhibits,inhibited by
+env_gp120	5432	upregulates
+env_gp120	728	downregulates
+env_gp120	1235	inhibits
+env_gp120	3596	modulates,induces release of
+env_gp120	1906	induces release of
+env_gp120	5291	regulated by,activates,modulated by,mediated by
+env_gp120	3449	downregulates,enhanced by,upregulates,inhibited by
+env_gp120	6609	activates
+env_gp120	5440	upregulates
+env_gp120	8398	activates
+env_gp120	6750	upregulates
+env_gp120	83953	inhibits
+env_gp120	6367	inhibited by
+env_gp120	6908	upregulates
+env_gp120	6590	upregulates
+env_gp120	8717	upregulates
+env_gp120	5289	regulated by,activates,modulated by,mediated by
+env_gp120	3304	upregulates,inhibited by
+env_gp120	5602	induces phosphorylation of,activates,decreases phosphorylation of
+env_gp120	3467	modulates
+env_gp120	6364	modulates,inhibits
+env_gp120	105	inhibits
+env_gp120	23324	processed by
+env_gp120	5925	upregulates,decreases phosphorylation of
+env_gp120	5439	upregulates
+env_gp120	109	stimulates
+env_gp120	55512	activates
+env_gp120	5331	inactivates
+env_gp120	4126	processed by
+env_gp120	10376	induces acetylation of
+env_gp120	7278	induces acetylation of,upregulates
+env_gp120	2568	upregulates
+env_gp120	4759	processed by
+env_gp120	5597	activates
+env_gp120	4123	processed by
+env_gp120	6726	downregulates
+env_gp160	126129	palmitoylated by
+env_gp160	3565	upregulates
+env_gp160	3109	associates with
+env_gp160	3118	associates with
+env_gp160	4166	processed by
+env_gp160	1375	palmitoylated by
+env_gp160	9486	processed by
+env_gp160	3108	associates with
+env_gp160	8703	processed by
+env_gp160	4122	processed by
+env_gp160	1493	co-localizes with
+env_gp160	1286	activates
+env_gp160	9469	processed by
+env_gp160	9331	processed by
+env_gp160	23324	processed by
+env_gp160	3558	downregulates
+env_gp160	3117	associates with
+env_gp160	57134	processed by
+env_gp160	5294	inhibits,activates
+env_gp160	3552	upregulates
+env_gp160	3439	upregulated by
+env_gp160	2683	processed by
+env_gp160	3562	upregulates
+env_gp160	8704	processed by
+env_gp160	2548	processed by
+env_gp160	6484	processed by
+env_gp160	57704	processed by
+env_gp160	4125	processed by
+env_gp160	5335	inhibits
+env_gp160	57733	processed by
+env_gp160	1284	activates
+env_gp160	83539	processed by
+env_gp160	5595	activates
+env_gp160	5287	inhibits,activates
+env_gp160	2534	decreases phosphorylation of
+env_gp160	2595	processed by
+env_gp160	2530	processed by
+env_gp160	8702	processed by
+env_gp160	1285	activates
+env_gp160	146664	processed by
+env_gp160	2353	activates
+env_gp160	1287	activates
+env_gp160	3458	downregulates
+env_gp160	847	inhibited by
+env_gp160	3266	inactivates,activates
+env_gp160	11253	processed by
+env_gp160	79694	processed by
+env_gp160	7535	induces phosphorylation of
+env_gp160	4121	processed by
+env_gp160	5296	inhibits,activates
+env_gp160	1636	processed by
+env_gp160	6647	inhibited by
+env_gp160	5291	inhibits,activates
+env_gp160	3115	associates with
+env_gp160	1376	palmitoylated by
+env_gp160	6487	processed by
+env_gp160	56548	processed by
+env_gp160	11320	processed by
+env_gp160	1432	activates
+env_gp160	3265	inactivates,activates
+env_gp160	3440	upregulated by
+env_gp160	4123	processed by
+env_gp160	1437	upregulates
+env_gp160	6482	processed by
+env_gp160	25834	processed by
+env_gp160	6649	inhibited by
+env_gp160	4893	inactivates,activates
+env_gp160	5599	activates,inhibits
+env_gp160	6648	inhibited by
+env_gp160	3569	upregulates
+env_gp160	2208	upregulates
+env_gp160	3845	inactivates,activates
+env_gp160	572	decreases phosphorylation of
+env_gp160	64377	processed by
+env_gp160	10317	processed by
+env_gp160	11282	processed by
+env_gp160	3112	associates with
+env_gp160	3570	upregulates
+env_gp160	7841	processed by
+env_gp160	3444	upregulated by
+env_gp160	5286	inhibits,activates
+env_gp160	7409	induces phosphorylation of
+env_gp160	3111	associates with
+env_gp160	3113	associates with
+env_gp160	5594	activates,inhibits
+env_gp160	8534	processed by
+env_gp160	10451	induces phosphorylation of
+env_gp160	5290	inhibits,activates
+env_gp160	7124	downregulates,induces release of
+env_gp160	4247	processed by
+env_gp160	5293	inhibits,activates
+env_gp160	23193	processed by
+env_gp160	718	upregulates
+env_gp160	10164	processed by
+env_gp160	3449	upregulated by
+env_gp160	4124	processed by
+env_gp160	54205	induces release of
+env_gp160	1374	palmitoylated by
+env_gp160	8705	processed by
+env_gp160	3725	activates
+env_gp160	6483	processed by
+env_gp160	8707	processed by
+env_gp160	5602	activates,inhibits
+env_gp160	5288	inhibits,activates
+env_gp160	23563	processed by
+env_gp160	7410	induces phosphorylation of
+env_gp160	1282	activates
+env_gp160	3120	associates with
+env_gp160	3553	upregulates
+env_gp160	3119	associates with
+env_gp160	4126	processed by
+env_gp160	682	regulated by
+env_gp160	10905	processed by
+env_gp160	5601	activates,inhibits
+env_gp160	596	downregulates
+env_gp160	5295	inhibits,activates
+env_gp160	4792	downregulated by
+env_gp160	8708	processed by
+env_gp160	8706	processed by
+env_gp160	5289	inhibits,activates
+env_gp160	9435	processed by
+env_gp41	23193	processed by
+env_gp41	11320	processed by
+env_gp41	6348	upregulates
+env_gp41	3135	upregulates
+env_gp41	6351	inhibited by
+env_gp41	3908	inhibits
+env_gp41	5581	inhibits
+env_gp41	4124	processed by
+env_gp41	71	inhibits
+env_gp41	57704	processed by
+env_gp41	3576	inhibited by
+env_gp41	3440	upregulates
+env_gp41	79694	processed by
+env_gp41	7047	modified by
+env_gp41	5580	inhibits
+env_gp41	3932	activates
+env_gp41	10905	processed by
+env_gp41	3909	inhibits
+env_gp41	5588	inhibits
+env_gp41	2595	processed by
+env_gp41	3383	upregulates
+env_gp41	7051	modified by
+env_gp41	4125	processed by
+env_gp41	5582	inhibits
+env_gp41	9333	modified by
+env_gp41	11282	processed by
+env_gp41	72	inhibits
+env_gp41	57733	processed by
+env_gp41	3559	downregulates
+env_gp41	109	activates
+env_gp41	112	activates
+env_gp41	60	inhibits
+env_gp41	916	inhibits
+env_gp41	3439	upregulates
+env_gp41	3126	incorporates,upregulates
+env_gp41	343641	modified by
+env_gp41	3108	incorporates,upregulates
+env_gp41	351	downregulates
+env_gp41	146664	processed by
+env_gp41	5584	inhibits
+env_gp41	3106	upregulates
+env_gp41	3558	downregulates
+env_gp41	10013	inhibited by
+env_gp41	70	inhibits
+env_gp41	3467	upregulates
+env_gp41	7124	upregulates
+env_gp41	3119	incorporates,upregulates
+env_gp41	3125	incorporates,upregulates
+env_gp41	4123	processed by
+env_gp41	3552	upregulates
+env_gp41	3105	upregulates
+env_gp41	23443	processed by
+env_gp41	6352	upregulates,inhibited by
+env_gp41	3449	upregulates
+env_gp41	4842	upregulates
+env_gp41	5590	inhibits
+env_gp41	116179	modified by
+env_gp41	3107	upregulates
+env_gp41	2548	processed by
+env_gp41	966	downregulates
+env_gp41	4122	processed by
+env_gp41	3115	incorporates,upregulates
+env_gp41	5583	inhibits
+env_gp41	196883	activates
+env_gp41	3939	induces release of
+env_gp41	3123	incorporates,upregulates
+env_gp41	114	activates
+env_gp41	3456	upregulates,inhibited by
+env_gp41	3948	induces release of
+env_gp41	914	inhibits
+env_gp41	3122	incorporates,upregulates
+env_gp41	25834	processed by
+env_gp41	3113	incorporates,upregulates
+env_gp41	3112	incorporates,upregulates
+env_gp41	3127	incorporates,upregulates
+env_gp41	4313	activates
+env_gp41	5579	inhibits
+env_gp41	108	activates
+env_gp41	6722	inactivates
+env_gp41	915	inhibits
+env_gp41	2358	activates
+env_gp41	113	activates
+env_gp41	3444	upregulates
+env_gp41	284217	inhibits
+env_gp41	4121	processed by
+env_gp41	81	inhibits
+env_gp41	3134	upregulates
+env_gp41	3586	inhibits,upregulates
+env_gp41	4247	processed by
+env_gp41	4846	upregulates
+env_gp41	3120	incorporates,upregulates
+env_gp41	111	activates
+env_gp41	940	inhibits
+env_gp41	59	inhibits
+env_gp41	7052	modified by
+env_gp41	3133	upregulates
+env_gp41	4126	processed by
+env_gp41	7841	processed by
+env_gp41	917	inhibits,decreases phosphorylation of
+env_gp41	4843	upregulates
+env_gp41	197257	induces release of
+env_gp41	3109	incorporates,upregulates
+env_gp41	3911	inhibits
+env_gp41	107	activates
+env_gp41	57134	processed by
+env_gp41	5578	inhibits
+env_gp41	11253	processed by
+env_gp41	2534	activates
+env_gp41	3111	incorporates,upregulates
+env_gp41	6198	activates
+env_gp41	3117	incorporates,upregulates
+env_gp41	3118	incorporates,upregulates
+env_gp41	3910	inhibits
+env_gp41	23324	processed by
+env_gp41	3553	upregulates
+env_gp41	115	activates
+env_gp41	7053	modified by
+env_gp41	3945	induces release of
+gag_capsid	3126	inhibits induction of
+gag_capsid	6777	upregulates
+gag_capsid	3916	co-localizes with
+gag_capsid	967	co-localizes with
+gag_capsid	3125	inhibits induction of
+gag_capsid	3458	inhibits,inhibited by
+gag_capsid	3127	inhibits induction of
+gag_capsid	3586	induces
+gag_capsid	9536	upregulates
+gag_capsid	3122	inhibits induction of
+gag_capsid	6776	upregulates
+gag_capsid	1536	inhibits induction of
+gag_capsid	3123	inhibits induction of
+gag_matrix	3569	upregulates
+gag_matrix	2203	activates
+gag_matrix	3838	imported by
+gag_matrix	8789	activates
+gag_matrix	4691	fractionates with
+gag_matrix	3312	stimulated by
+gag_matrix	3840	imported by
+gag_matrix	3309	stimulated by
+gag_matrix	10204	complexes with
+gag_matrix	3837	imported by
+gag_matrix	3310	stimulated by
+gag_matrix	3839	imported by
+gag_matrix	3558	enhances,upregulates
+gag_matrix	5901	regulates import of
+gag_matrix	3383	co-localizes with
+gag_matrix	3304	stimulated by
+gag_matrix	3565	inhibits
+gag_matrix	3303	stimulated by
+gag_matrix	3593	upregulates
+gag_matrix	3843	imported by
+gag_matrix	7124	induces,upregulates
+gag_matrix	3159	associates with
+gag_matrix	23633	imported by
+gag_matrix	3841	imported by
+gag_matrix	3592	upregulates
+gag_matrix	3836	imported by
+gag_matrix	1594	induces
+gag_matrix	966	co-localizes with
+gag_matrix	3313	stimulated by
+gag_matrix	3308	stimulated by
+gag_matrix	7070	co-localizes with
+gag_matrix	7514	exported by
+gag_matrix	10527	imported by
+gag_matrix	6348	downregulates
+gag_matrix	3600	enhances,upregulates,inhibits
+gag_matrix	3306	stimulated by
+gag_matrix	3842	imported by
+gag_nucleocapsid	5527	activates
+gag_nucleocapsid	10527	imported by
+gag_nucleocapsid	5528	activates
+gag_nucleocapsid	5516	activates
+gag_nucleocapsid	6667	enhances
+gag_nucleocapsid	5524	activates
+gag_nucleocapsid	2959	enhances
+gag_nucleocapsid	5515	activates
+gag_nucleocapsid	5526	activates
+gag_nucleocapsid	5522	activates
+gag_nucleocapsid	5523	activates
+gag_nucleocapsid	5525	activates
+gag_nucleocapsid	5520	activates
+gag_nucleocapsid	4790	enhances
+gag_nucleocapsid	5521	activates
+gag_nucleocapsid	5518	activates
+gag_nucleocapsid	5519	activates
+gag_nucleocapsid	5529	activates
+gag_nucleocapsid	7150	enhances
+gag_pr55	1072	incorporates
+gag_pr55	3122	co-localizes with,induces
+gag_pr55	79720	regulated by
+gag_pr55	1956	upregulates
+gag_pr55	3310	incorporates
+gag_pr55	1070	co-localizes with
+gag_pr55	3309	incorporates
+gag_pr55	4478	incorporates
+gag_pr55	1068	co-localizes with
+gag_pr55	3125	co-localizes with,induces
+gag_pr55	3732	co-localizes with
+gag_pr55	3304	incorporates
+gag_pr55	5328	inhibits
+gag_pr55	3553	upregulated by
+gag_pr55	3126	co-localizes with,induces
+gag_pr55	3303	incorporates
+gag_pr55	51160	regulated by
+gag_pr55	3306	incorporates
+gag_pr55	975	co-localizes with
+gag_pr55	3123	co-localizes with,induces
+gag_pr55	3127	co-localizes with,induces
+gag_pr55	928	co-localizes with
+gag_pr55	3329	incorporates
+gag_pr55	3439	inhibited by
+gag_pr55	1069	co-localizes with
+gag_pr55	3313	incorporates
+gag_pr55	7430	incorporates
+gag_pr55	56623	inhibited by
+gag_pr55	3312	incorporates
+gag_pr55	3308	incorporates
+gag_pr55	382	inhibited by
+gag_pr55	90678	regulated by
+nef	355	upregulates,inhibits
+nef	7332	displaces,excludes
+nef	841	inactivates
+nef	5468	downregulates
+nef	71	associates with,induces rearrangement of
+nef	916	downregulates
+nef	6626	upregulates
+nef	1173	requires
+nef	8874	induces complex with
+nef	6774	upregulates,activates
+nef	8651	induces
+nef	5605	upregulates
+nef	965	upregulates
+nef	3565	inhibits
+nef	2885	upregulates
+nef	909	downregulates
+nef	925	downregulates
+nef	2213	downregulates
+nef	3576	upregulates
+nef	3458	downregulates,upregulates
+nef	30835	upregulates
+nef	3265	synergizes with,activates
+nef	1805	upregulates
+nef	836	inactivates,requires,activates
+nef	4288	upregulates
+nef	7490	downregulates
+nef	917	downregulates
+nef	107	activates
+nef	933	upregulates
+nef	1234	downregulates
+nef	8766	co-localizes with
+nef	572	induces phosphorylation of
+nef	2353	downregulates,activates
+nef	926	co-localizes with,downregulates
+nef	27336	upregulates
+nef	2208	induces release of
+nef	2212	downregulates
+nef	8740	upregulates
+nef	969	downregulates
+nef	728	upregulates
+nef	5925	upregulates
+nef	108	activates
+nef	6596	upregulates
+nef	1436	inhibits
+nef	6935	upregulates
+nef	598	downregulates,upregulates
+nef	3600	upregulates
+nef	115	activates
+nef	2335	upregulates
+nef	915	downregulates
+nef	4360	downregulates
+nef	2002	enhances phosphorylation of
+nef	3001	upregulates
+nef	3553	upregulates
+nef	2209	downregulates
+nef	5581	downregulates
+nef	7037	downregulates,modulates
+nef	972	upregulates
+nef	6924	upregulates
+nef	3725	downregulates,activates
+nef	2185	upregulates
+nef	3815	upregulates
+nef	3592	upregulates
+nef	5599	activates
+nef	382	regulated by,activates
+nef	3569	upregulates
+nef	959	inhibits
+nef	8976	inhibits
+nef	3156	modulates
+nef	596	downregulates
+nef	6351	induces,upregulates
+nef	112	activates
+nef	142	induces cleavage of
+nef	940	co-localizes with,downregulates,upregulates
+nef	1493	upregulates
+nef	3659	upregulates
+nef	6721	upregulates
+nef	7124	induces,upregulates,inhibits
+nef	113	activates
+nef	3559	downregulates
+nef	929	upregulates
+nef	4790	downregulates,inhibits,activates
+nef	3627	upregulates
+nef	467	upregulates
+nef	6352	upregulates
+nef	6609	modulates
+nef	7295	stabilizes
+nef	3586	induces,upregulates,inhibits
+nef	6772	activates
+nef	27035	inhibits
+nef	3949	upregulates
+nef	3660	upregulates
+nef	4771	enhances phosphorylation of
+nef	867	enhances phosphorylation of,induces complex with
+nef	111	activates
+nef	5579	downregulates
+nef	1906	inhibits
+nef	6348	upregulates
+nef	2670	co-localizes with,upregulates
+nef	196883	activates
+nef	1595	upregulates
+nef	11346	downregulates
+nef	9459	induces phosphorylation of
+nef	6387	inhibits
+nef	356	upregulates
+nef	912	downregulates
+nef	898	downregulates
+nef	3077	downregulates
+nef	7414	polarizes
+nef	842	upregulates
+nef	3122	downregulates,inhibits
+nef	5604	upregulates
+nef	114	activates
+nef	109	activates
+nef	4318	induces
+nef	718	upregulates
+nef	595	upregulates
+nef	4772	upregulates,inhibits,activates
+nef	5058	associates with,activates
+pol_integrase	10527	imported by
+pol_integrase	50810	activated by
+pol_integrase	3329	stimulated by
+pol_integrase	2237	stimulates
+pol_integrase	3159	stimulated by
+pol_integrase	84717	co-localizes with
+pol_protease	5588	inhibited by
+pol_protease	5580	inhibited by
+pol_protease	3735	inhibited by
+pol_protease	5579	inhibited by
+pol_protease	5590	inhibited by
+pol_protease	1677	induces cleavage of
+pol_protease	5578	inhibited by
+pol_protease	54205	induces release of
+pol_protease	5583	inhibited by
+pol_protease	637	induces cleavage of
+pol_protease	5581	inhibited by
+pol_protease	5584	inhibited by
+pol_protease	842	activates
+pol_protease	1676	induces cleavage of
+pol_protease	836	activates
+pol_protease	51022	activated by
+pol_protease	841	activates
+pol_protease	5582	inhibited by
+pol_reversetranscriptase	5604	facilitated by
+pol_reversetranscriptase	71	co-localizes with
+pol_reversetranscriptase	72	co-localizes with
+pol_reversetranscriptase	70	co-localizes with
+pol_reversetranscriptase	3444	inhibited by
+pol_reversetranscriptase	7150	enhanced by
+pol_reversetranscriptase	4691	fractionates with
+pol_reversetranscriptase	3440	inhibited by
+pol_reversetranscriptase	59	co-localizes with
+pol_reversetranscriptase	4772	enhanced by
+pol_reversetranscriptase	3586	inhibited by
+pol_reversetranscriptase	3596	inhibited by
+pol_reversetranscriptase	6117	inhibited by
+pol_reversetranscriptase	6300	facilitated by
+pol_reversetranscriptase	4773	enhanced by
+pol_reversetranscriptase	6119	inhibited by
+pol_reversetranscriptase	5595	facilitated by
+pol_reversetranscriptase	5594	facilitated by
+pol_reversetranscriptase	29935	inhibited by
+pol_reversetranscriptase	10527	imported by
+pol_reversetranscriptase	3439	inhibited by
+pol_reversetranscriptase	6118	inhibited by
+rev	6427	co-localizes with,inhibited by
+rev	84790	depolymerizes
+rev	3704	inhibits
+rev	1654	exported by
+rev	10381	depolymerizes
+rev	7846	depolymerizes
+rev	7280	depolymerizes
+rev	5725	influenced by
+rev	51807	depolymerizes
+rev	7278	depolymerizes
+rev	10382	depolymerizes
+rev	81027	depolymerizes
+rev	60	associates with
+rev	80086	depolymerizes
+rev	8519	antagonized by
+rev	7277	depolymerizes
+rev	5902	competes with
+rev	10376	depolymerizes
+rev	7052	inhibited by
+rev	262	requires
+rev	3958	inhibits
+rev	347688	depolymerizes
+rev	10383	depolymerizes
+rev	6627	inhibits
+rev	3178	influenced by,stimulates,modulated by
+rev	6430	requires
+rev	472	stimulated by
+rev	84617	depolymerizes
+rev	4792	inhibited by
+tat	1869	inhibited by
+tat	3552	downregulates,upregulates
+tat	572	enhances phosphorylation of
+tat	50940	activates
+tat	10846	activates
+tat	3120	downregulates
+tat	2877	downregulates,modulates
+tat	3308	regulated by
+tat	213	induces
+tat	6772	upregulates,competes with
+tat	2021	activates
+tat	51422	activates
+tat	5074	upregulates
+tat	5573	activates
+tat	9020	enhances
+tat	2905	activates
+tat	3665	upregulates
+tat	3592	downregulates,upregulates
+tat	4363	upregulates
+tat	5330	activates
+tat	6632	stimulated by
+tat	114	inhibits
+tat	1437	upregulates
+tat	598	upregulates
+tat	108	inhibits
+tat	64895	regulates
+tat	5529	regulated by,modulated by
+tat	3265	activates
+tat	3560	downregulates
+tat	1385	enhances phosphorylation of,downregulates,activates
+tat	4599	upregulates
+tat	3113	downregulates
+tat	7023	regulated by
+tat	4782	synergizes with
+tat	920	upregulates
+tat	26012	associates with
+tat	5151	activates
+tat	5435	induces phosphorylation of,stimulates
+tat	9618	inhibited by
+tat	4504	upregulates
+tat	6348	downregulates,upregulates
+tat	5144	activates
+tat	5140	activates
+tat	3913	upregulates
+tat	4049	downregulates,upregulates
+tat	5150	activates
+tat	5604	activates
+tat	3909	upregulates
+tat	5054	modulates,upregulates
+tat	6523	inhibits
+tat	2185	enhances phosphorylation of
+tat	4283	upregulates
+tat	3908	upregulates
+tat	9636	upregulates
+tat	3312	regulated by
+tat	5440	stimulates,activates
+tat	2904	activates
+tat	51692	upregulates
+tat	3109	downregulates
+tat	3593	downregulates,upregulates
+tat	56903	regulates
+tat	650	upregulates
+tat	7042	upregulates
+tat	7039	upregulates
+tat	207	upregulates,activates
+tat	5530	activates
+tat	5396	downregulates
+tat	7040	upregulates,inhibited by
+tat	5743	upregulates
+tat	25930	upregulates
+tat	836	downregulates,activates
+tat	1874	recruits
+tat	5335	activates
+tat	3122	downregulates,upregulates
+tat	3709	induces
+tat	3133	downregulates,upregulates
+tat	815	inhibits
+tat	6376	inhibited by
+tat	595	downregulates,upregulates
+tat	1445	activates
+tat	6347	upregulates,inhibits,activates,inhibited by
+tat	3554	upregulates
+tat	3914	upregulates
+tat	142	regulates,modified by,regulated by,stimulates,induces cleavage of
+tat	4495	upregulates
+tat	3479	upregulates,inhibited by
+tat	5141	recruits,activates
+tat	9414	downregulates
+tat	4609	upregulates
+tat	113	inhibits
+tat	10000	activates
+tat	649	upregulates
+tat	4501	upregulates
+tat	6354	upregulates,inhibits
+tat	3112	downregulates
+tat	53358	induces phosphorylation of
+tat	3096	enhanced by
+tat	84560	upregulates
+tat	5436	induces phosphorylation of,stimulates
+tat	3303	regulated by
+tat	3562	upregulates
+tat	6714	activates
+tat	4318	upregulates
+tat	1020	downregulates
+tat	3397	upregulates
+tat	3115	downregulates
+tat	7412	upregulates
+tat	3675	activates
+tat	23435	inhibited by
+tat	3108	downregulates
+tat	2906	activates
+tat	969	induces
+tat	196883	inhibits
+tat	30009	induces
+tat	27336	stimulated by
+tat	54205	induces release of
+tat	3683	inhibits
+tat	5441	stimulates,activates
+tat	1230	modulates
+tat	6426	inhibits
+tat	5371	regulated by
+tat	25920	associates with
+tat	3945	downregulates
+tat	29949	upregulates
+tat	3123	downregulates,upregulates
+tat	4499	upregulates
+tat	5575	activates
+tat	284217	upregulates
+tat	6597	regulated by
+tat	5153	activates
+tat	5433	induces phosphorylation of,stimulates
+tat	3127	downregulates,upregulates
+tat	51728	activates
+tat	5328	upregulates,enhances release of
+tat	3708	induces
+tat	7133	downregulates
+tat	135	inhibited by
+tat	2958	stabilizes
+tat	10561	upregulates
+tat	7528	inhibited by
+tat	84812	activates
+tat	22938	associates with
+tat	3575	upregulates
+tat	4360	downregulates
+tat	348	inhibits,inhibited by
+tat	2882	downregulates,modulates
+tat	7132	protects
+tat	50604	upregulates
+tat	9564	enhances phosphorylation of
+tat	5243	downregulates
+tat	6580	regulated by
+tat	5136	activates
+tat	2878	downregulates,modulates
+tat	710	upregulates
+tat	4803	synergizes with,inhibits
+tat	5516	modulated by
+tat	3669	upregulates
+tat	2993	downregulates
+tat	6894	regulates
+tat	2688	inhibited by
+tat	3309	regulated by
+tat	10319	upregulates
+tat	11128	activates
+tat	10614	inhibited by,competes with
+tat	4498	upregulates
+tat	51497	associates with
+tat	116444	activates
+tat	5528	regulated by,modulated by
+tat	3710	induces
+tat	9076	downregulates
+tat	3569	activated by,upregulates
+tat	3437	upregulates
+tat	3912	upregulates
+tat	9330	activates
+tat	8536	downregulates
+tat	6401	upregulates
+tat	5520	regulated by,modulated by
+tat	10553	enhanced by,stimulates
+tat	7422	induces,cooperates with
+tat	941	upregulates
+tat	115	inhibits
+tat	23468	inactivates
+tat	2876	downregulates,modulates
+tat	3126	downregulates,upregulates
+tat	891	upregulates
+tat	10914	regulates
+tat	6827	activated by
+tat	7024	inhibited by
+tat	4246	upregulates
+tat	5880	activates
+tat	4091	downregulates
+tat	6925	inhibits
+tat	958	upregulates
+tat	5533	activates
+tat	2670	upregulates
+tat	5434	induces phosphorylation of,stimulates
+tat	3910	upregulates
+tat	4316	upregulates
+tat	107	inhibits
+tat	5566	activates
+tat	816	inhibits
+tat	5137	activates
+tat	5432	induces phosphorylation of,stimulates
+tat	5138	activates
+tat	3117	downregulates
+tat	59	induces rearrangement of
+tat	200315	upregulates
+tat	7469	associates with,downregulates
+tat	10621	activates
+tat	6303	upregulates
+tat	4496	upregulates
+tat	9902	downregulates
+tat	7015	downregulates
+tat	6352	upregulates,inhibited by,cooperates with
+tat	23411	regulated by
+tat	3304	regulated by
+tat	3430	upregulates
+tat	111	inhibits
+tat	5879	activates
+tat	1960	synergizes with
+tat	3429	upregulates
+tat	3310	regulated by
+tat	1281	upregulates
+tat	6531	downregulates
+tat	7342	inhibits,inhibited by
+tat	3932	activates
+tat	4089	inhibited by
+tat	3558	activated by,downregulates,upregulates
+tat	171568	activates
+tat	5521	regulated by,modulated by
+tat	3065	inhibited by
+tat	5599	induces phosphorylation of,activates
+tat	6582	regulated by
+tat	3559	downregulates,upregulates
+tat	3918	upregulates
+tat	942	upregulates
+tat	1026	activates
+tat	5532	activates
+tat	5829	enhances phosphorylation of
+tat	6895	synergizes with
+tat	2624	synergizes with
+tat	5527	regulated by,modulated by
+tat	2937	modulates
+tat	5423	induces
+tat	661	activates
+tat	2736	synergizes with
+tat	2214	inhibits
+tat	604	upregulates
+tat	3586	upregulates,inhibited by
+tat	5567	activates
+tat	1810	inhibits
+tat	5577	activates
+tat	5534	activates
+tat	2976	activates
+tat	5142	recruits,activates
+tat	9255	upregulates
+tat	5431	induces phosphorylation of,stimulates
+tat	8851	downregulates
+tat	124790	inhibited by
+tat	10915	associates with
+tat	70	induces rearrangement of
+tat	2932	activates
+tat	1390	upregulates,activates
+tat	2246	induces
+tat	9308	upregulates
+tat	841	upregulates
+tat	116443	activates
+tat	3911	upregulates
+tat	10622	activates
+tat	3125	downregulates,upregulates
+tat	4088	stimulated by,inhibited by
+tat	3428	upregulates
+tat	8721	downregulates
+tat	3603	inhibited by
+tat	2833	inhibits
+tat	11140	regulated by
+tat	6929	regulated by
+tat	51196	activates
+tat	1959	synergizes with
+tat	3627	upregulates,inhibits
+tat	55718	activates
+tat	4843	induces,inhibits
+tat	6648	enhances,downregulates
+tat	2880	downregulates,modulates
+tat	9733	regulated by
+tat	991	downregulates
+tat	3557	upregulates
+tat	6934	regulated by
+tat	257202	downregulates,modulates
+tat	4489	upregulates
+tat	567	downregulates
+tat	659	downregulates
+tat	9647	downregulates
+tat	3566	upregulates
+tat	4968	upregulates
+tat	5576	activates
+tat	3939	downregulates
+tat	5139	activates
+tat	55703	activates
+tat	6633	stimulated by
+tat	5526	regulated by,modulated by
+tat	4311	inhibits,inhibited by
+tat	3105	downregulates,upregulates
+tat	4250	upregulates
+tat	2023	inhibits
+tat	5568	activates
+tat	3570	upregulates
+tat	2975	activates
+tat	11004	downregulates
+tat	6890	upregulates
+tat	8743	upregulates,inhibits
+tat	6829	stimulated by,induces phosphorylation of,cooperates with
+tat	5336	activates
+tat	1234	downregulates,upregulates
+tat	5518	modulated by
+tat	208	upregulates,activates
+tat	7936	associates with
+tat	330	upregulates
+tat	4846	induces,downregulates
+tat	5439	induces phosphorylation of,stimulates
+tat	5605	activates
+tat	29893	inhibited by
+tat	2879	downregulates,modulates
+tat	5332	activates
+tat	6629	stimulated by
+tat	71	induces rearrangement of
+tat	1936	inhibits
+tat	6502	enhanced by
+tat	3313	regulated by
+tat	5143	activates
+tat	6351	upregulates
+tat	5524	regulated by,modulated by
+tat	1649	enhanced by
+tat	355	upregulates
+tat	6627	stimulated by
+tat	3306	regulated by
+tat	3915	upregulates
+tat	5535	activates
+tat	23236	activates
+tat	5522	regulated by,modulated by
+tat	6647	enhances,downregulates
+tat	3553	synergizes with,downregulates,upregulates
+tat	3431	upregulates
+tat	4234	downregulates
+tat	10346	upregulates,inhibited by
+tat	387	activates
+tat	10499	enhanced by,stimulates
+tat	3118	downregulates
+tat	5437	stimulates,activates
+tat	3135	downregulates,upregulates
+tat	3565	induces release of,upregulates
+tat	1267	activates
+tat	4494	upregulates
+tat	9329	activates
+tat	8648	regulated by,enhanced by,stimulates
+tat	5571	activates
+tat	2957	stabilizes
+tat	995	downregulates
+tat	3958	upregulates
+tat	6634	stimulated by
+tat	2539	activates
+tat	5515	modulated by
+tat	7448	competes with
+tat	4313	upregulates,enhances release of
+tat	4502	upregulates
+tat	5438	induces phosphorylation of,stimulates
+tat	7054	downregulates
+tat	5728	enhanced by
+tat	6375	upregulates
+tat	3266	activates
+tat	2903	activates
+tat	1278	upregulates,inhibits
+tat	5519	modulated by
+tat	6346	inhibits
+tat	6355	upregulates
+tat	644314	upregulates
+tat	3107	downregulates,upregulates
+tat	2885	recruits,upregulates
+tat	60	induces rearrangement of,upregulates
+tat	10623	activates
+tat	112	inhibits
+tat	4490	upregulates
+tat	113026	activates
+tat	1233	upregulated by
+tat	5523	regulated by,modulated by
+tat	72	induces rearrangement of
+tat	687	enhanced by
+tat	6432	inhibits
+tat	3134	downregulates,upregulates
+tat	6649	enhances,downregulates
+tat	351	upregulates,inhibits
+tat	573	upregulates
+tat	58	induces rearrangement of
+tat	356	upregulates
+tat	6628	stimulated by
+tat	8202	enhanced by,stimulates
+tat	6742	upregulates
+tat	3111	downregulates
+tat	2215	inhibits
+tat	5331	activates
+tat	3596	induces release of
+tat	5525	regulated by,modulated by
+tat	2911	activates
+tat	3106	downregulates,upregulates
+tat	5333	activates
+tat	6464	enhances phosphorylation of,induces phosphorylation of
+tat	3320	regulated by,requires,upregulates
+tat	5621	upregulates
+tat	2902	upregulates,activates
+tat	109	inhibits
+tat	3576	downregulates,upregulates
+tat	4064	downregulates
+tat	3119	downregulates
+tat	9328	activates
+tat	2335	upregulates,modulated by,competes with
+tat	4493	upregulates
+tat	7122	downregulates
+tat	10507	upregulates
+tat	1277	upregulates,inhibits
+tat	4261	inhibits,inhibited by
+vif	6923	complexes with
+vif	3444	inhibited by
+vif	3055	inhibits
+vif	3439	inhibited by
+vif	5339	relocalizes
+vif	3440	inhibited by
+vif	57379	inhibits
+vif	9978	complexes with
+vif	7431	co-localizes with
+vif	6059	associates with
+vpr	2309	inhibits
+vpr	5528	complexes with,upregulates,activates
+vpr	6346	downregulates
+vpr	5519	complexes with,upregulates,activates
+vpr	6351	downregulates
+vpr	841	activates
+vpr	3655	upregulates
+vpr	4776	upregulates
+vpr	7099	downregulates
+vpr	3313	competes with
+vpr	3630	antagonizes,inhibits
+vpr	4000	co-localizes with
+vpr	7531	enhanced by,inhibits
+vpr	983	inactivates,inhibits,activates
+vpr	5436	activates
+vpr	5529	complexes with,upregulates,activates
+vpr	5518	complexes with,upregulates,activates
+vpr	391	upregulates
+vpr	3297	upregulates
+vpr	3837	regulates
+vpr	3558	downregulates
+vpr	4792	upregulates
+vpr	842	induces,activates
+vpr	5478	isomerized by
+vpr	3678	upregulates
+vpr	1111	activates
+vpr	9133	inactivates,inhibits
+vpr	1022	enhanced by,inhibited by
+vpr	5523	complexes with,upregulates,activates
+vpr	7430	upregulates
+vpr	4772	upregulates
+vpr	836	induces,activates
+vpr	5520	complexes with,upregulates,activates
+vpr	941	downregulates
+vpr	142	recruits,induces cleavage of
+vpr	3308	competes with
+vpr	3458	upregulates
+vpr	84823	co-localizes with
+vpr	1537	induces release of
+vpr	942	downregulates
+vpr	902	enhanced by,inhibited by
+vpr	5430	activates
+vpr	7532	enhanced by,inhibits
+vpr	3586	modulates,upregulates
+vpr	7124	induces,modulates,inhibits
+vpr	3309	competes with
+vpr	2872	downregulates
+vpr	3592	downregulates
+vpr	596	upregulates,inhibited by
+vpr	834	activates
+vpr	5522	complexes with,upregulates,activates
+vpr	3735	inhibits
+vpr	5521	complexes with,upregulates,activates
+vpr	5884	requires
+vpr	891	inactivates,induces release of,inhibits
+vpr	5434	activates
+vpr	4773	upregulates
+vpr	8648	enhances
+vpr	2965	enhanced by,inhibited by
+vpr	1069	causes accumulation of
+vpr	5525	complexes with,upregulates,activates
+vpr	1051	activates
+vpr	5439	activates
+vpr	27175	causes accumulation of
+vpr	10262	inhibits
+vpr	1938	inhibited by
+vpr	7514	exported by
+vpr	10527	imported by
+vpr	7529	enhanced by,inhibits
+vpr	920	downregulates
+vpr	4331	enhanced by,inhibited by
+vpr	5970	activates
+vpr	5515	complexes with,upregulates,activates
+vpr	958	downregulates
+vpr	332	upregulates
+vpr	388	upregulates
+vpr	1647	upregulates
+vpr	598	redistributes,downregulates
+vpr	969	activates
+vpr	5524	complexes with,upregulates,activates
+vpr	960	downregulates
+vpr	23583	induces,downregulates
+vpr	208	inhibits
+vpr	5432	activates
+vpr	3576	regulates
+vpr	3306	competes with
+vpr	387	upregulates
+vpr	85417	inactivates,inhibits
+vpr	7534	enhanced by,inhibits
+vpr	3014	induces phosphorylation of
+vpr	3164	downregulates
+vpr	396	upregulates
+vpr	3310	competes with
+vpr	3842	regulates
+vpr	7283	causes accumulation of
+vpr	3725	activates
+vpr	207	inhibits
+vpr	5516	complexes with,upregulates,activates
+vpr	6352	regulates
+vpr	5437	activates
+vpr	999	upregulates
+vpr	5599	activates
+vpr	466	activates
+vpr	3843	regulates
+vpr	7057	stimulates
+vpr	9308	downregulates
+vpr	3569	upregulates
+vpr	54205	induces release of
+vpr	10000	inhibits
+vpr	4001	co-localizes with
+vpr	5609	activates
+vpr	5116	causes accumulation of
+vpr	5435	activates
+vpr	6348	downregulates
+vpr	3565	downregulates
+vpr	79902	causes accumulation of
+vpr	5433	activates
+vpr	5440	activates
+vpr	5527	complexes with,upregulates,activates
+vpr	581	downregulates,enhanced by,upregulates
+vpr	5441	activates
+vpr	4775	upregulates
+vpr	945	downregulates
+vpr	672	induces phosphorylation of,induces
+vpr	8685	stimulates
+vpr	5431	activates
+vpr	3312	competes with
+vpr	2353	activates
+vpr	3620	downregulates
+vpr	3304	competes with
+vpr	8600	upregulates
+vpr	5526	complexes with,upregulates,activates
+vpr	3300	downregulates
+vpr	5438	activates
+vpu	3105	downregulates
+vpu	7185	downregulates
+vpu	836	activates
+vpu	1499	stabilizes
+vpu	4790	inhibits
+vpu	7412	upregulates
+vpu	468	stabilizes
+vpu	597	downregulates
+vpu	3107	downregulates
+vpu	958	upregulates
+vpu	3106	downregulates
+vpu	4792	stabilizes
+vpu	598	downregulates
+env_gp120	5645	upregulates,cleaved by
+env_gp120	5034	cleaved by
+env_gp120	2147	activated by,cleaved by
+env_gp120	5328	cleaved by
+env_gp120	5644	cleaved by
+env_gp120	9601	cleaved by
+env_gp120	8399	degrades,activates
+env_gp120	10130	cleaved by
+env_gp120	2923	cleaved by
+env_gp120	64714	cleaved by
+env_gp120	10954	cleaved by
+env_gp160	5125	cleaved by
+env_gp160	5046	cleaved by
+env_gp160	3936	cleaved by
+env_gp160	9159	cleaved by
+env_gp160	5122	cleaved by
+env_gp160	5045	cleaved by
+env_gp160	55170	methylated by
+gag_capsid	7314	ubiquitinated by
+gag_capsid	5567	phosphorylated by
+gag_capsid	10537	ubiquitinated by
+gag_capsid	7316	ubiquitinated by
+gag_capsid	5568	phosphorylated by
+gag_capsid	5566	phosphorylated by
+gag_matrix	9397	myristoylated by
+gag_matrix	1459	phosphorylated by
+gag_matrix	7316	ubiquitinated by
+gag_matrix	1460	phosphorylated by
+gag_matrix	5594	phosphorylated by
+gag_matrix	5575	induces,phosphorylated by
+gag_matrix	10537	ubiquitinated by
+gag_matrix	5568	induces,phosphorylated by
+gag_matrix	7314	ubiquitinated by
+gag_matrix	1457	phosphorylated by
+gag_matrix	5577	induces,phosphorylated by
+gag_matrix	5576	induces,phosphorylated by
+gag_matrix	5566	induces,phosphorylated by
+gag_matrix	5571	induces,phosphorylated by
+gag_matrix	5567	induces,phosphorylated by
+gag_matrix	5578	phosphorylated by
+gag_matrix	51422	induces,phosphorylated by
+gag_matrix	5595	phosphorylated by
+gag_matrix	5062	phosphorylated by
+gag_matrix	5573	induces,phosphorylated by
+gag_matrix	4836	myristoylated by
+gag_nucleocapsid	7314	ubiquitinated by
+gag_nucleocapsid	7316	ubiquitinated by
+gag_nucleocapsid	10537	ubiquitinated by
+gag_p1	10537	ubiquitinated by
+gag_p1	7316	ubiquitinated by
+gag_p6	5594	phosphorylated by
+gag_p6	7316	ubiquitinated by
+gag_p6	4734	ubiquitinated by
+gag_p6	5595	phosphorylated by
+gag_p6	7314	ubiquitinated by
+gag_p6	10537	ubiquitinated by
+nef	4792	degrades,induces
+nef	5578	phosphorylated by
+nef	5566	phosphorylated by
+pol_integrase	5689	degraded by
+pol_integrase	5691	degraded by
+pol_integrase	5699	degraded by
+pol_integrase	11143	acetylated by
+pol_integrase	5713	degraded by
+pol_integrase	5693	degraded by
+pol_integrase	5721	degraded by
+pol_integrase	5709	degraded by
+pol_integrase	5692	degraded by
+pol_integrase	5714	degraded by
+pol_integrase	10197	degraded by
+pol_integrase	5716	degraded by
+pol_integrase	5710	degraded by
+pol_integrase	5707	degraded by
+pol_integrase	5720	degraded by
+pol_integrase	5688	degraded by
+pol_integrase	5682	degraded by
+pol_integrase	5687	degraded by
+pol_integrase	5715	degraded by
+pol_integrase	5708	degraded by
+pol_integrase	5711	degraded by
+pol_integrase	5694	degraded by
+pol_integrase	5686	degraded by
+pol_integrase	5701	degraded by
+pol_integrase	5698	degraded by
+pol_integrase	5705	degraded by
+pol_integrase	5685	degraded by
+pol_integrase	5700	degraded by
+pol_integrase	84148	acetylated by
+pol_integrase	5706	degraded by
+pol_integrase	5717	degraded by
+pol_integrase	9491	degraded by
+pol_integrase	5684	degraded by
+pol_integrase	5683	degraded by
+pol_integrase	5696	degraded by
+pol_integrase	5702	degraded by
+pol_integrase	9861	degraded by
+pol_integrase	5719	degraded by
+pol_integrase	5704	degraded by
+pol_integrase	23198	degraded by
+pol_integrase	5695	degraded by
+pol_integrase	23522	acetylated by
+pol_integrase	5718	degraded by
+pol_integrase	5690	degraded by
+pol_protease	83660	cleaves
+pol_protease	6708	cleaves
+pol_protease	84557	cleaves
+pol_protease	3553	cleaves
+pol_protease	3691	cleaves
+pol_protease	5257	cleaves
+pol_protease	7431	degrades,cleaves
+pol_protease	71	cleaves
+pol_protease	6710	cleaves
+pol_protease	4627	cleaves
+pol_protease	4133	cleaves
+pol_protease	6709	cleaves
+pol_protease	5256	cleaves
+pol_protease	4628	cleaves
+pol_protease	3936	cleaves
+pol_protease	801	cleaves
+pol_protease	1460	phosphorylated by
+pol_protease	70	cleaves
+pol_protease	1459	phosphorylated by
+pol_protease	143	cleaves,induces cleavage of
+pol_protease	5358	cleaves
+pol_protease	81631	cleaves
+pol_protease	26986	cleaves
+pol_protease	4629	cleaves
+pol_protease	4130	cleaves
+pol_protease	87	cleaves
+pol_protease	2335	cleaves
+pol_protease	7168	degrades,cleaves
+pol_protease	57731	cleaves
+pol_protease	8735	cleaves
+pol_protease	7170	degrades
+pol_protease	58	cleaves
+pol_protease	2670	cleaves
+pol_protease	7134	cleaves
+pol_protease	72	cleaves
+pol_protease	5473	cleaves
+pol_protease	1674	cleaves
+pol_protease	1457	phosphorylated by
+pol_protease	5255	cleaves
+pol_protease	59	cleaves
+pol_protease	1981	cleaves
+pol_protease	10397	cleaves
+pol_protease	3675	cleaves
+pol_protease	57447	cleaves
+pol_protease	79784	cleaves
+pol_protease	2318	cleaves
+pol_protease	4790	cleaves
+pol_protease	351	cleaves
+pol_protease	142	cleaves,induces cleavage of
+pol_protease	6711	cleaves
+pol_protease	596	cleaves,downregulates
+pol_protease	4624	cleaves
+pol_protease	7169	degrades
+pol_protease	6712	cleaves
+pol_protease	2317	cleaves
+pol_protease	710	cleaves
+pol_protease	7094	cleaves
+pol_protease	2316	cleaves
+pol_protease	4625	cleaves
+pol_protease	60	cleaves
+pol_reversetranscriptase	5286	phosphorylated by
+pol_reversetranscriptase	5580	phosphorylated by
+pol_reversetranscriptase	5583	phosphorylated by
+pol_reversetranscriptase	5581	phosphorylated by
+pol_reversetranscriptase	5582	phosphorylated by
+pol_reversetranscriptase	5590	phosphorylated by
+pol_reversetranscriptase	3458	degraded by
+pol_reversetranscriptase	5578	phosphorylated by
+pol_reversetranscriptase	5579	phosphorylated by
+pol_reversetranscriptase	5584	phosphorylated by
+pol_reversetranscriptase	5588	phosphorylated by
+pol_reversetranscriptase	5696	degraded by
+pol_reversetranscriptase	1457	stimulated by,phosphorylated by
+pol_reversetranscriptase	1460	stimulated by,phosphorylated by
+rev	5595	phosphorylated by
+rev	5594	phosphorylated by
+rev	983	phosphorylated by
+rev	5578	phosphorylated by
+tat	5581	regulated by,phosphorylated by,activates
+tat	7314	ubiquitinated by
+tat	5587	regulated by,phosphorylated by,activates
+tat	4775	enhances,dephosphorylates,activates
+tat	5584	regulated by,phosphorylated by,activates
+tat	5595	induces phosphorylation of,inactivates,phosphorylated by,activates
+tat	5594	induces phosphorylation of,inactivates,phosphorylated by,activates
+tat	4772	synergizes with,enhances,dephosphorylates,activates
+tat	4776	enhances,dephosphorylates,activates
+tat	23683	regulated by,phosphorylated by,activates
+tat	7316	ubiquitinated by
+tat	5747	upregulates,activates,phosphorylates
+tat	5925	enhances phosphorylation of,activated by,dephosphorylates,inhibited by
+tat	7317	ubiquitinated by
+tat	10537	ubiquitinated by
+tat	5582	regulated by,phosphorylated by,activates
+tat	5590	regulated by,phosphorylated by,activates
+tat	5578	regulated by,phosphorylated by,activates
+tat	4793	degrades,inhibited by
+tat	5583	regulated by,phosphorylated by,activates
+tat	5045	cleaved by
+tat	7321	ubiquitinated by
+tat	55170	methylated by
+tat	4792	degrades,inhibited by
+tat	5580	regulated by,phosphorylated by,activates
+tat	5579	regulated by,phosphorylated by,activates
+tat	5588	regulated by,phosphorylated by,activates
+tat	4193	regulated by,ubiquitinated by
+tat	4312	enhances release of,degraded by,activates
+vif	5594	phosphorylated by
+vif	5595	phosphorylated by
+vpr	5605	downregulates,dephosphorylates
+vpr	10914	dephosphorylates
+vpu	920	regulates,degrades,downregulates,inhibited by
+vpu	1457	phosphorylated by
+vpu	1459	phosphorylated by
+vpu	1460	phosphorylated by
